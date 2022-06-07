@@ -1,0 +1,5158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d17" for="edge" attr.name="tunnel" attr.type="string" />
+  <key id="d16" for="edge" attr.name="access" attr.type="string" />
+  <key id="d15" for="edge" attr.name="service" attr.type="string" />
+  <key id="d14" for="edge" attr.name="length" attr.type="string" />
+  <key id="d13" for="edge" attr.name="maxspeed" attr.type="string" />
+  <key id="d12" for="edge" attr.name="highway" attr.type="string" />
+  <key id="d11" for="edge" attr.name="name" attr.type="string" />
+  <key id="d10" for="edge" attr.name="ref" attr.type="string" />
+  <key id="d9" for="edge" attr.name="lanes" attr.type="string" />
+  <key id="d8" for="edge" attr.name="oneway" attr.type="string" />
+  <key id="d7" for="edge" attr.name="osmid" attr.type="string" />
+  <key id="d6" for="node" attr.name="highway" attr.type="string" />
+  <key id="d5" for="node" attr.name="street_count" attr.type="string" />
+  <key id="d4" for="node" attr.name="x" attr.type="string" />
+  <key id="d3" for="node" attr.name="y" attr.type="string" />
+  <key id="d2" for="graph" attr.name="crs" attr.type="string" />
+  <key id="d1" for="graph" attr.name="created_with" attr.type="string" />
+  <key id="d0" for="graph" attr.name="created_date" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="497342">
+      <data key="d3">46.2001242</data>
+      <data key="d4">6.1712263</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="25648610">
+      <data key="d3">46.2012764</data>
+      <data key="d4">6.1683284</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="297724655">
+      <data key="d3">46.2026383</data>
+      <data key="d4">6.1695122</data>
+      <data key="d6">traffic_signals</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="582902714">
+      <data key="d3">46.2032891</data>
+      <data key="d4">6.1709778</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="582902715">
+      <data key="d3">46.2034747</data>
+      <data key="d4">6.1717005</data>
+      <data key="d6">crossing</data>
+      <data key="d5">4</data>
+    </node>
+    <node id="582902718">
+      <data key="d3">46.2039371</data>
+      <data key="d4">6.1740791</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="582908223">
+      <data key="d3">46.2004136</data>
+      <data key="d4">6.1685665</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="582908224">
+      <data key="d3">46.2008318</data>
+      <data key="d4">6.1690894</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="582908225">
+      <data key="d3">46.2009413</data>
+      <data key="d4">6.1692309</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="582908226">
+      <data key="d3">46.2010536</data>
+      <data key="d4">6.1693637</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="582908228">
+      <data key="d3">46.2010786</data>
+      <data key="d4">6.1693624</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="582908230">
+      <data key="d3">46.2011223</data>
+      <data key="d4">6.169306</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="582908231">
+      <data key="d3">46.201126</data>
+      <data key="d4">6.1692578</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="582908232">
+      <data key="d3">46.201113</data>
+      <data key="d4">6.1692028</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="582908233">
+      <data key="d3">46.2010554</data>
+      <data key="d4">6.1691746</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="582908321">
+      <data key="d3">46.2000711</data>
+      <data key="d4">6.1718798</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="582908340">
+      <data key="d3">46.2007054</data>
+      <data key="d4">6.1691971</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="582908377">
+      <data key="d3">46.2013683</data>
+      <data key="d4">6.1701871</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="582908385">
+      <data key="d3">46.2013312</data>
+      <data key="d4">6.170221</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="582908391">
+      <data key="d3">46.201291</data>
+      <data key="d4">6.170297</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="582908396">
+      <data key="d3">46.2011639</data>
+      <data key="d4">6.1705386</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="582908401">
+      <data key="d3">46.2011485</data>
+      <data key="d4">6.1706084</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="582908404">
+      <data key="d3">46.2010655</data>
+      <data key="d4">6.1707897</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="582908409">
+      <data key="d3">46.2010219</data>
+      <data key="d4">6.1708998</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="582908414">
+      <data key="d3">46.2009606</data>
+      <data key="d4">6.1709855</data>
+      <data key="d5">4</data>
+    </node>
+    <node id="582908420">
+      <data key="d3">46.2007696</data>
+      <data key="d4">6.1712513</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="582908426">
+      <data key="d3">46.2010292</data>
+      <data key="d4">6.1715309</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="582908431">
+      <data key="d3">46.2010407</data>
+      <data key="d4">6.1716203</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="582908432">
+      <data key="d3">46.2012792</data>
+      <data key="d4">6.1719186</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="582908434">
+      <data key="d3">46.2012265</data>
+      <data key="d4">6.1720443</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="582908448">
+      <data key="d3">46.2012471</data>
+      <data key="d4">6.172064</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="582908452">
+      <data key="d3">46.2009384</data>
+      <data key="d4">6.1727225</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="903997692">
+      <data key="d3">46.2039355</data>
+      <data key="d4">6.1745319</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="903997721">
+      <data key="d3">46.2039277</data>
+      <data key="d4">6.1738549</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="903997745">
+      <data key="d3">46.2025378</data>
+      <data key="d4">6.1693436</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="903997748">
+      <data key="d3">46.20394</data>
+      <data key="d4">6.174325</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="903997815">
+      <data key="d3">46.2027359</data>
+      <data key="d4">6.1696849</data>
+      <data key="d6">crossing</data>
+      <data key="d5">4</data>
+    </node>
+    <node id="963709147">
+      <data key="d3">46.2001138</data>
+      <data key="d4">6.1713997</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="963709178">
+      <data key="d3">46.2001107</data>
+      <data key="d4">6.1687135</data>
+      <data key="d6">crossing</data>
+      <data key="d5">4</data>
+    </node>
+    <node id="963709179">
+      <data key="d3">46.2001768</data>
+      <data key="d4">6.1686261</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="963709221">
+      <data key="d3">46.2001301</data>
+      <data key="d4">6.1708307</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="963709232">
+      <data key="d3">46.2001288</data>
+      <data key="d4">6.1706241</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="963709275">
+      <data key="d3">46.2001102</data>
+      <data key="d4">6.1715128</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="963709295">
+      <data key="d3">46.2001077</data>
+      <data key="d4">6.1690977</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="963709340">
+      <data key="d3">46.2000937</data>
+      <data key="d4">6.1716824</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="963709422">
+      <data key="d3">46.20013</data>
+      <data key="d4">6.1710497</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="992071192">
+      <data key="d3">46.2009812</data>
+      <data key="d4">6.1693007</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="992071268">
+      <data key="d3">46.2012089</data>
+      <data key="d4">6.168954</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="992071611">
+      <data key="d3">46.2010239</data>
+      <data key="d4">6.1691961</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1034421946">
+      <data key="d3">46.2006591</data>
+      <data key="d4">6.1693087</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1034422012">
+      <data key="d3">46.2001113</data>
+      <data key="d4">6.1686308</data>
+      <data key="d6">traffic_signals</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="1034422022">
+      <data key="d3">46.2006444</data>
+      <data key="d4">6.1693536</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1034422068">
+      <data key="d3">46.2006299</data>
+      <data key="d4">6.1692428</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1034422143">
+      <data key="d3">46.2006748</data>
+      <data key="d4">6.1692807</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1034422150">
+      <data key="d3">46.2006061</data>
+      <data key="d4">6.1693268</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1034422294">
+      <data key="d3">46.2007247</data>
+      <data key="d4">6.1692505</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="1034422354">
+      <data key="d3">46.2006416</data>
+      <data key="d4">6.1693857</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="1903124398">
+      <data key="d3">46.2000553</data>
+      <data key="d4">6.1692267</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1903124472">
+      <data key="d3">46.2002534</data>
+      <data key="d4">6.1720578</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1903124504">
+      <data key="d3">46.2003808</data>
+      <data key="d4">6.1722038</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1903124534">
+      <data key="d3">46.2008206</data>
+      <data key="d4">6.1726105</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1903124537">
+      <data key="d3">46.2008612</data>
+      <data key="d4">6.1726481</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1903124545">
+      <data key="d3">46.2009869</data>
+      <data key="d4">6.1727694</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1903124560">
+      <data key="d3">46.2011846</data>
+      <data key="d4">6.1729699</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1903124569">
+      <data key="d3">46.2012426</data>
+      <data key="d4">6.173029</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="1903124572">
+      <data key="d3">46.201263</data>
+      <data key="d4">6.1730518</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1903124602">
+      <data key="d3">46.201592</data>
+      <data key="d4">6.1730606</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="1903856057">
+      <data key="d3">46.2004545</data>
+      <data key="d4">6.1705801</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1903856061">
+      <data key="d3">46.2006023</data>
+      <data key="d4">6.1693993</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="1903856063">
+      <data key="d3">46.2006067</data>
+      <data key="d4">6.1706235</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1903856086">
+      <data key="d3">46.2007786</data>
+      <data key="d4">6.1711558</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="1903856090">
+      <data key="d3">46.2008048</data>
+      <data key="d4">6.1708216</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1903856093">
+      <data key="d3">46.2008231</data>
+      <data key="d4">6.1711937</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1903856094">
+      <data key="d3">46.2008686</data>
+      <data key="d4">6.1710883</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1903856096">
+      <data key="d3">46.2009026</data>
+      <data key="d4">6.1709245</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="1903856114">
+      <data key="d3">46.2011564</data>
+      <data key="d4">6.1712121</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1903856120">
+      <data key="d3">46.2011711</data>
+      <data key="d4">6.1717109</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1903856136">
+      <data key="d3">46.2012328</data>
+      <data key="d4">6.1720508</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1903856144">
+      <data key="d3">46.2013576</data>
+      <data key="d4">6.1721855</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1903856148">
+      <data key="d3">46.2013837</data>
+      <data key="d4">6.1714464</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="1903856163">
+      <data key="d3">46.2013864</data>
+      <data key="d4">6.1701693</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="1903856166">
+      <data key="d3">46.2014087</data>
+      <data key="d4">6.1722868</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1903856172">
+      <data key="d3">46.2014455</data>
+      <data key="d4">6.1724332</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1903856199">
+      <data key="d3">46.2015954</data>
+      <data key="d4">6.1725712</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1903856350">
+      <data key="d3">46.2029866</data>
+      <data key="d4">6.1700983</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1904162832">
+      <data key="d3">46.2022116</data>
+      <data key="d4">6.1718371</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="1904162847">
+      <data key="d3">46.2023291</data>
+      <data key="d4">6.1716906</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="1904162858">
+      <data key="d3">46.2024176</data>
+      <data key="d4">6.1721612</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="1904162881">
+      <data key="d3">46.2025342</data>
+      <data key="d4">6.1720018</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="1904162887">
+      <data key="d3">46.2025825</data>
+      <data key="d4">6.1726724</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="1904162894">
+      <data key="d3">46.202611</data>
+      <data key="d4">6.1714347</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="1904162907">
+      <data key="d3">46.2026836</data>
+      <data key="d4">6.17301</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="1904162908">
+      <data key="d3">46.2026889</data>
+      <data key="d4">6.1710201</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="1904162913">
+      <data key="d3">46.2027398</data>
+      <data key="d4">6.171721</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="1904162921">
+      <data key="d3">46.2027705</data>
+      <data key="d4">6.1716791</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="1904162932">
+      <data key="d3">46.2028278</data>
+      <data key="d4">6.1716008</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="1904162942">
+      <data key="d3">46.2028931</data>
+      <data key="d4">6.1727306</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="1904162958">
+      <data key="d3">46.2029588</data>
+      <data key="d4">6.1714219</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="1904162971">
+      <data key="d3">46.2029981</data>
+      <data key="d4">6.1721172</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1904162975">
+      <data key="d3">46.2030309</data>
+      <data key="d4">6.1719183</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="1904162986">
+      <data key="d3">46.203078</data>
+      <data key="d4">6.1719852</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="1904163003">
+      <data key="d3">46.2031312</data>
+      <data key="d4">6.1730893</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="1904163013">
+      <data key="d3">46.2031779</data>
+      <data key="d4">6.1724861</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="1904163028">
+      <data key="d3">46.2032555</data>
+      <data key="d4">6.1722472</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="1904163038">
+      <data key="d3">46.203326</data>
+      <data key="d4">6.172153</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="1904163053">
+      <data key="d3">46.2033554</data>
+      <data key="d4">6.1722609</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="1904163061">
+      <data key="d3">46.2033771</data>
+      <data key="d4">6.1723409</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="1904163087">
+      <data key="d3">46.2034296</data>
+      <data key="d4">6.1740807</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="1904163108">
+      <data key="d3">46.2036683</data>
+      <data key="d4">6.1736425</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="1904163110">
+      <data key="d3">46.2037173</data>
+      <data key="d4">6.1736484</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2077445463">
+      <data key="d3">46.2001993</data>
+      <data key="d4">6.1706034</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="2077445468">
+      <data key="d3">46.2002524</data>
+      <data key="d4">6.1705547</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2077445470">
+      <data key="d3">46.2002793</data>
+      <data key="d4">6.1706177</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2077445475">
+      <data key="d3">46.2003313</data>
+      <data key="d4">6.1705239</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2077445489">
+      <data key="d3">46.2004098</data>
+      <data key="d4">6.1705004</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2077445495">
+      <data key="d3">46.2004583</data>
+      <data key="d4">6.1686344</data>
+      <data key="d6">crossing</data>
+      <data key="d5">4</data>
+    </node>
+    <node id="2077445499">
+      <data key="d3">46.2004841</data>
+      <data key="d4">6.1704987</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2077445502">
+      <data key="d3">46.2005163</data>
+      <data key="d4">6.1705856</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2077445510">
+      <data key="d3">46.2005569</data>
+      <data key="d4">6.1705179</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2077445519">
+      <data key="d3">46.2006339</data>
+      <data key="d4">6.1705668</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2077445531">
+      <data key="d3">46.2007134</data>
+      <data key="d4">6.1706268</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2077445535">
+      <data key="d3">46.2007171</data>
+      <data key="d4">6.1689024</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2077445551">
+      <data key="d3">46.2007704</data>
+      <data key="d4">6.1706806</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="2078099973">
+      <data key="d3">46.2014114</data>
+      <data key="d4">6.1714756</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="2078099990">
+      <data key="d3">46.2015788</data>
+      <data key="d4">6.171069</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="2080615007">
+      <data key="d3">46.2031775</data>
+      <data key="d4">6.1737278</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2080615011">
+      <data key="d3">46.2031845</data>
+      <data key="d4">6.1737151</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2080615015">
+      <data key="d3">46.2032139</data>
+      <data key="d4">6.1737481</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2080615018">
+      <data key="d3">46.2032283</data>
+      <data key="d4">6.1737199</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2080615033">
+      <data key="d3">46.2032984</data>
+      <data key="d4">6.173589</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2080615038">
+      <data key="d3">46.203324</data>
+      <data key="d4">6.1735422</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="2080615101">
+      <data key="d3">46.2035827</data>
+      <data key="d4">6.1731126</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="2080615108">
+      <data key="d3">46.2036267</data>
+      <data key="d4">6.1730361</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2080615110">
+      <data key="d3">46.2036292</data>
+      <data key="d4">6.1736015</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="2154406821">
+      <data key="d3">46.2008357</data>
+      <data key="d4">6.1684637</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2154406850">
+      <data key="d3">46.2011655</data>
+      <data key="d4">6.1683749</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2154406872">
+      <data key="d3">46.2013053</data>
+      <data key="d4">6.1691056</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="2154406941">
+      <data key="d3">46.2016143</data>
+      <data key="d4">6.1726751</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2154406942">
+      <data key="d3">46.2016144</data>
+      <data key="d4">6.1726181</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="2154406943">
+      <data key="d3">46.2016165</data>
+      <data key="d4">6.1730816</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2154406947">
+      <data key="d3">46.2016434</data>
+      <data key="d4">6.1726174</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2154406949">
+      <data key="d3">46.2016507</data>
+      <data key="d4">6.1730469</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2154406953">
+      <data key="d3">46.2016638</data>
+      <data key="d4">6.1727374</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2154406954">
+      <data key="d3">46.2016819</data>
+      <data key="d4">6.1729487</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2154406956">
+      <data key="d3">46.2016964</data>
+      <data key="d4">6.1726603</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2154406960">
+      <data key="d3">46.2017288</data>
+      <data key="d4">6.1727902</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2154406962">
+      <data key="d3">46.2017355</data>
+      <data key="d4">6.1726199</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2154406963">
+      <data key="d3">46.2017362</data>
+      <data key="d4">6.1728807</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2154406965">
+      <data key="d3">46.2017451</data>
+      <data key="d4">6.1728408</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2154406979">
+      <data key="d3">46.2017962</data>
+      <data key="d4">6.1725545</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2154406983">
+      <data key="d3">46.2018398</data>
+      <data key="d4">6.1725535</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2154406993">
+      <data key="d3">46.2019023</data>
+      <data key="d4">6.1725788</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2158161443">
+      <data key="d3">46.2001577</data>
+      <data key="d4">6.1718344</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2158161445">
+      <data key="d3">46.2001685</data>
+      <data key="d4">6.1717301</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2158161505">
+      <data key="d3">46.2002803</data>
+      <data key="d4">6.1720008</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2158161751">
+      <data key="d3">46.2008483</data>
+      <data key="d4">6.1725415</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2158161773">
+      <data key="d3">46.2009322</data>
+      <data key="d4">6.1714135</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2158161847">
+      <data key="d3">46.2012363</data>
+      <data key="d4">6.1704675</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2158161851">
+      <data key="d3">46.2012481</data>
+      <data key="d4">6.1703658</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2158161855">
+      <data key="d3">46.2012689</data>
+      <data key="d4">6.1718495</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2158161863">
+      <data key="d3">46.2013069</data>
+      <data key="d4">6.1731027</data>
+      <data key="d6">crossing</data>
+      <data key="d5">4</data>
+    </node>
+    <node id="2158161906">
+      <data key="d3">46.2014647</data>
+      <data key="d4">6.1724518</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2158161988">
+      <data key="d3">46.2019222</data>
+      <data key="d4">6.1727214</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="3525163825">
+      <data key="d3">46.2000489</data>
+      <data key="d4">6.1716164</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="3525163827">
+      <data key="d3">46.2000678</data>
+      <data key="d4">6.1713365</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="3525163829">
+      <data key="d3">46.2000757</data>
+      <data key="d4">6.1711005</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="3525163830">
+      <data key="d3">46.2000766</data>
+      <data key="d4">6.1709704</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="6031216708">
+      <data key="d3">46.2001591</data>
+      <data key="d4">6.1686273</data>
+      <data key="d6">crossing</data>
+      <data key="d5">4</data>
+    </node>
+    <node id="6031216711">
+      <data key="d3">46.2001169</data>
+      <data key="d4">6.1719015</data>
+      <data key="d6">crossing</data>
+      <data key="d5">4</data>
+    </node>
+    <node id="6031216712">
+      <data key="d3">46.2001428</data>
+      <data key="d4">6.1717137</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="6031216713">
+      <data key="d3">46.2001588</data>
+      <data key="d4">6.1715671</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="6031216714">
+      <data key="d3">46.2001746</data>
+      <data key="d4">6.1713566</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="6031216715">
+      <data key="d3">46.2001838</data>
+      <data key="d4">6.1711125</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="6031216716">
+      <data key="d3">46.2001863</data>
+      <data key="d4">6.1706072</data>
+      <data key="d6">crossing</data>
+      <data key="d5">4</data>
+    </node>
+    <node id="6031216717">
+      <data key="d3">46.2003942</data>
+      <data key="d4">6.1685714</data>
+      <data key="d6">crossing</data>
+      <data key="d5">4</data>
+    </node>
+    <node id="6031216719">
+      <data key="d3">46.2008149</data>
+      <data key="d4">6.1691148</data>
+      <data key="d5">4</data>
+    </node>
+    <node id="6031216720">
+      <data key="d3">46.2011218</data>
+      <data key="d4">6.1693731</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="6031216721">
+      <data key="d3">46.2010954</data>
+      <data key="d4">6.1693972</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="6031216722">
+      <data key="d3">46.2010564</data>
+      <data key="d4">6.1694073</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="6031216723">
+      <data key="d3">46.2010202</data>
+      <data key="d4">6.1693966</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="6031216724">
+      <data key="d3">46.2008893</data>
+      <data key="d4">6.1692262</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="6031216725">
+      <data key="d3">46.2006971</data>
+      <data key="d4">6.1689386</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="6031216726">
+      <data key="d3">46.2004804</data>
+      <data key="d4">6.168724</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="6031216727">
+      <data key="d3">46.2004006</data>
+      <data key="d4">6.1686207</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="6031216728">
+      <data key="d3">46.2001598</data>
+      <data key="d4">6.1686818</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="6031227979">
+      <data key="d3">46.2000707</data>
+      <data key="d4">6.1687194</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="6031228195">
+      <data key="d3">46.2000821</data>
+      <data key="d4">6.1687139</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="6031228263">
+      <data key="d3">46.2000444</data>
+      <data key="d4">6.168742</data>
+      <data key="d5">4</data>
+    </node>
+    <node id="6031228264">
+      <data key="d3">46.2000576</data>
+      <data key="d4">6.1687307</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="6031228265">
+      <data key="d3">46.2001602</data>
+      <data key="d4">6.1687128</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="6031228268">
+      <data key="d3">46.2000771</data>
+      <data key="d4">6.1687139</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="6031228463">
+      <data key="d3">46.2000478</data>
+      <data key="d4">6.1688716</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="6031228464">
+      <data key="d3">46.200052</data>
+      <data key="d4">6.1690518</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="6031228465">
+      <data key="d3">46.2000359</data>
+      <data key="d4">6.1717573</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="6031228466">
+      <data key="d3">46.2000595</data>
+      <data key="d4">6.1714754</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="6031228467">
+      <data key="d3">46.2000724</data>
+      <data key="d4">6.1711934</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="6358394385">
+      <data key="d3">46.2028541</data>
+      <data key="d4">6.1698851</data>
+      <data key="d6">bus_stop</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="6358394387">
+      <data key="d3">46.2028065</data>
+      <data key="d4">6.1700059</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="7090912295">
+      <data key="d3">46.2026892</data>
+      <data key="d4">6.169789</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="7129064173">
+      <data key="d3">46.2039232</data>
+      <data key="d4">6.1747464</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="7129197309">
+      <data key="d3">46.2032278</data>
+      <data key="d4">6.1707373</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="7566642192">
+      <data key="d3">46.2000953</data>
+      <data key="d4">6.1718871</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="7577177870">
+      <data key="d3">46.2026725</data>
+      <data key="d4">6.1697583</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="9278281920">
+      <data key="d3">46.2038929</data>
+      <data key="d4">6.1745095</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281921">
+      <data key="d3">46.2038966</data>
+      <data key="d4">6.1742802</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281922">
+      <data key="d3">46.2038864</data>
+      <data key="d4">6.1740012</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281923">
+      <data key="d3">46.2038595</data>
+      <data key="d4">6.1737156</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281924">
+      <data key="d3">46.2038385</data>
+      <data key="d4">6.1735486</data>
+      <data key="d5">4</data>
+    </node>
+    <node id="9278281925">
+      <data key="d3">46.2037658</data>
+      <data key="d4">6.1730826</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281926">
+      <data key="d3">46.2037197</data>
+      <data key="d4">6.1728746</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="9278281932">
+      <data key="d3">46.2034236</data>
+      <data key="d4">6.1717277</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="9278281933">
+      <data key="d3">46.2008822</data>
+      <data key="d4">6.1726041</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281934">
+      <data key="d3">46.2032331</data>
+      <data key="d4">6.1710531</data>
+      <data key="d6">crossing</data>
+      <data key="d5">4</data>
+    </node>
+    <node id="9278281936">
+      <data key="d3">46.2020309</data>
+      <data key="d4">6.1726091</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="9278281945">
+      <data key="d3">46.2013355</data>
+      <data key="d4">6.1730383</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="9278281952">
+      <data key="d3">46.2025041</data>
+      <data key="d4">6.1719561</data>
+      <data key="d5">4</data>
+    </node>
+    <node id="9278281953">
+      <data key="d3">46.2023886</data>
+      <data key="d4">6.1721155</data>
+      <data key="d5">4</data>
+    </node>
+    <node id="9278281954">
+      <data key="d3">46.2012895</data>
+      <data key="d4">6.1729941</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281955">
+      <data key="d3">46.2010076</data>
+      <data key="d4">6.1727231</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281956">
+      <data key="d3">46.2009597</data>
+      <data key="d4">6.172677</data>
+      <data key="d5">4</data>
+    </node>
+    <node id="9278281957">
+      <data key="d3">46.2015168</data>
+      <data key="d4">6.1732127</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281958">
+      <data key="d3">46.2015474</data>
+      <data key="d4">6.1732207</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281959">
+      <data key="d3">46.2015687</data>
+      <data key="d4">6.1732154</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281960">
+      <data key="d3">46.2015975</data>
+      <data key="d4">6.1731926</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281961">
+      <data key="d3">46.2019727</data>
+      <data key="d4">6.1726895</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="9278281962">
+      <data key="d3">46.2032321</data>
+      <data key="d4">6.1711541</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281963">
+      <data key="d3">46.2034822</data>
+      <data key="d4">6.1719552</data>
+      <data key="d5">4</data>
+    </node>
+    <node id="9278281964">
+      <data key="d3">46.2032803</data>
+      <data key="d4">6.1711715</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281965">
+      <data key="d3">46.2032599</data>
+      <data key="d4">6.1711541</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="9278281966">
+      <data key="d3">46.2032107</data>
+      <data key="d4">6.1711662</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281967">
+      <data key="d3">46.2028516</data>
+      <data key="d4">6.1716381</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="9278281968">
+      <data key="d3">46.2029262</data>
+      <data key="d4">6.1713734</data>
+      <data key="d5">4</data>
+    </node>
+    <node id="9278281969">
+      <data key="d3">46.203169</data>
+      <data key="d4">6.1710361</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281970">
+      <data key="d3">46.2031949</data>
+      <data key="d4">6.1709905</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281971">
+      <data key="d3">46.2032052</data>
+      <data key="d4">6.1709476</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="9278281972">
+      <data key="d3">46.2032042</data>
+      <data key="d4">6.1708993</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281973">
+      <data key="d3">46.2031272</data>
+      <data key="d4">6.1706123</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281974">
+      <data key="d3">46.2030576</data>
+      <data key="d4">6.1703923</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281975">
+      <data key="d3">46.2030195</data>
+      <data key="d4">6.1702985</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281976">
+      <data key="d3">46.2029982</data>
+      <data key="d4">6.1702569</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281977">
+      <data key="d3">46.2029158</data>
+      <data key="d4">6.1701892</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281978">
+      <data key="d3">46.2005654</data>
+      <data key="d4">6.1685283</data>
+      <data key="d6">crossing</data>
+      <data key="d5">4</data>
+    </node>
+    <node id="9278281980">
+      <data key="d3">46.2005715</data>
+      <data key="d4">6.1685772</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="9278281981">
+      <data key="d3">46.200418</data>
+      <data key="d4">6.1686433</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="9278281982">
+      <data key="d3">46.2009378</data>
+      <data key="d4">6.1691569</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="9278281983">
+      <data key="d3">46.2010889</data>
+      <data key="d4">6.1691265</data>
+      <data key="d5">4</data>
+    </node>
+    <node id="9278281985">
+      <data key="d3">46.2010165</data>
+      <data key="d4">6.169349</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281986">
+      <data key="d3">46.2009747</data>
+      <data key="d4">6.1692417</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281987">
+      <data key="d3">46.200997</data>
+      <data key="d4">6.1692323</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281988">
+      <data key="d3">46.2011046</data>
+      <data key="d4">6.1693476</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281989">
+      <data key="d3">46.2010861</data>
+      <data key="d4">6.1691719</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281991">
+      <data key="d3">46.2012383</data>
+      <data key="d4">6.1683552</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281992">
+      <data key="d3">46.2011864</data>
+      <data key="d4">6.168412</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281993">
+      <data key="d3">46.2011455</data>
+      <data key="d4">6.1693194</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281994">
+      <data key="d3">46.2011529</data>
+      <data key="d4">6.1692725</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281995">
+      <data key="d3">46.2011408</data>
+      <data key="d4">6.1692041</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281996">
+      <data key="d3">46.2010629</data>
+      <data key="d4">6.1690874</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281997">
+      <data key="d3">46.2010053</data>
+      <data key="d4">6.1691679</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281998">
+      <data key="d3">46.2009747</data>
+      <data key="d4">6.1691773</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278281999">
+      <data key="d3">46.2009459</data>
+      <data key="d4">6.1691692</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278282000">
+      <data key="d3">46.2007417</data>
+      <data key="d4">6.1688608</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278282001">
+      <data key="d3">46.2005338</data>
+      <data key="d4">6.1686543</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278282002">
+      <data key="d3">46.2005264</data>
+      <data key="d4">6.1686194</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="9278282003">
+      <data key="d3">46.2005393</data>
+      <data key="d4">6.1685859</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278282004">
+      <data key="d3">46.201268</data>
+      <data key="d4">6.1683901</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278282005">
+      <data key="d3">46.2018871</data>
+      <data key="d4">6.1683713</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278282006">
+      <data key="d3">46.201695</data>
+      <data key="d4">6.1680454</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9278282007">
+      <data key="d3">46.2016198</data>
+      <data key="d4">6.1679327</data>
+      <data key="d5">3</data>
+    </node>
+    <edge source="497342" target="963709422" id="0">
+      <data key="d7">82805738</data>
+      <data key="d8">False</data>
+      <data key="d9">1</data>
+      <data key="d10">102</data>
+      <data key="d11">Route de Chêne</data>
+      <data key="d12">secondary</data>
+      <data key="d13">50</data>
+      <data key="d14">13.607</data>
+    </edge>
+    <edge source="497342" target="963709147" id="0">
+      <data key="d7">82805738</data>
+      <data key="d8">False</data>
+      <data key="d9">1</data>
+      <data key="d10">102</data>
+      <data key="d11">Route de Chêne</data>
+      <data key="d12">secondary</data>
+      <data key="d13">50</data>
+      <data key="d14">13.395</data>
+    </edge>
+    <edge source="25648610" target="9278281991" id="0">
+      <data key="d7">8367436</data>
+      <data key="d11">Avenue Godefroy</data>
+      <data key="d12">residential</data>
+      <data key="d13">40</data>
+      <data key="d8">False</data>
+      <data key="d14">4.712</data>
+    </edge>
+    <edge source="297724655" target="903997745" id="0">
+      <data key="d7">27136706</data>
+      <data key="d8">False</data>
+      <data key="d9">2</data>
+      <data key="d11">Avenue de la Gare des Eaux-Vives</data>
+      <data key="d12">residential</data>
+      <data key="d13">50</data>
+      <data key="d14">17.124</data>
+    </edge>
+    <edge source="297724655" target="903997815" id="0">
+      <data key="d7">45773359</data>
+      <data key="d11">Chemin Frank-Thomas</data>
+      <data key="d12">tertiary</data>
+      <data key="d13">50</data>
+      <data key="d8">False</data>
+      <data key="d14">17.159</data>
+    </edge>
+    <edge source="582902714" target="9278281934" id="0">
+      <data key="d7">45773369</data>
+      <data key="d11">Avenue Rosemont</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">8.506</data>
+    </edge>
+    <edge source="582902714" target="7129197309" id="0">
+      <data key="d7">346024088</data>
+      <data key="d11">Chemin Frank-Thomas</data>
+      <data key="d12">tertiary</data>
+      <data key="d13">50</data>
+      <data key="d8">False</data>
+      <data key="d14">19.724</data>
+    </edge>
+    <edge source="582902714" target="582902715" id="0">
+      <data key="d7">346024088</data>
+      <data key="d11">Chemin Frank-Thomas</data>
+      <data key="d12">tertiary</data>
+      <data key="d13">50</data>
+      <data key="d8">False</data>
+      <data key="d14">59.323</data>
+    </edge>
+    <edge source="582902715" target="582902714" id="0">
+      <data key="d7">346024088</data>
+      <data key="d11">Chemin Frank-Thomas</data>
+      <data key="d12">tertiary</data>
+      <data key="d13">50</data>
+      <data key="d8">False</data>
+      <data key="d14">59.323</data>
+    </edge>
+    <edge source="582902715" target="9278281932" id="0">
+      <data key="d7">1005626177</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">6.055</data>
+    </edge>
+    <edge source="582902718" target="903997748" id="0">
+      <data key="d7">197862900</data>
+      <data key="d11">Chemin Frank-Thomas</data>
+      <data key="d12">tertiary</data>
+      <data key="d13">40</data>
+      <data key="d8">False</data>
+      <data key="d14">18.927</data>
+    </edge>
+    <edge source="582902718" target="903997721" id="0">
+      <data key="d7">762942202</data>
+      <data key="d11">Chemin Frank-Thomas</data>
+      <data key="d12">tertiary</data>
+      <data key="d13">50</data>
+      <data key="d8">False</data>
+      <data key="d14">17.285</data>
+    </edge>
+    <edge source="582908223" target="6031216717" id="0">
+      <data key="d7">8367436</data>
+      <data key="d11">Avenue Godefroy</data>
+      <data key="d12">residential</data>
+      <data key="d13">40</data>
+      <data key="d8">False</data>
+      <data key="d14">2.19</data>
+    </edge>
+    <edge source="582908223" target="9278281978" id="0">
+      <data key="d7">8367436</data>
+      <data key="d11">Avenue Godefroy</data>
+      <data key="d12">residential</data>
+      <data key="d13">40</data>
+      <data key="d8">False</data>
+      <data key="d14">17.134</data>
+    </edge>
+    <edge source="582908223" target="2077445495" id="0">
+      <data key="d7">45773366</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">7.212</data>
+    </edge>
+    <edge source="582908224" target="582908225" id="0">
+      <data key="d7">45773366</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">16.335</data>
+    </edge>
+    <edge source="582908224" target="2077445535" id="0">
+      <data key="d7">45773366</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">19.23</data>
+    </edge>
+    <edge source="582908224" target="6031216719" id="0">
+      <data key="d7">45773370</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">2.712</data>
+    </edge>
+    <edge source="582908225" target="582908224" id="0">
+      <data key="d7">45773366</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">16.335</data>
+    </edge>
+    <edge source="582908225" target="992071192" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">6.967</data>
+    </edge>
+    <edge source="582908225" target="9278281986" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">3.806</data>
+    </edge>
+    <edge source="582908226" target="582908228" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">2.782</data>
+    </edge>
+    <edge source="582908226" target="9278281985" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">4.278</data>
+    </edge>
+    <edge source="582908228" target="9278281988" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">3.107</data>
+    </edge>
+    <edge source="582908228" target="582908226" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">2.782</data>
+    </edge>
+    <edge source="582908230" target="582908231" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">3.732</data>
+    </edge>
+    <edge source="582908230" target="9278281988" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">3.758</data>
+    </edge>
+    <edge source="582908231" target="582908232" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">4.473</data>
+    </edge>
+    <edge source="582908231" target="582908230" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">3.732</data>
+    </edge>
+    <edge source="582908232" target="9278281989" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">3.821</data>
+    </edge>
+    <edge source="582908232" target="582908231" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">4.473</data>
+    </edge>
+    <edge source="582908233" target="992071611" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">3.874</data>
+    </edge>
+    <edge source="582908233" target="9278281989" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">3.42</data>
+    </edge>
+    <edge source="582908233" target="9278281983" id="0">
+      <data key="d7">85537715</data>
+      <data key="d12">service</data>
+      <data key="d15">parking_aisle</data>
+      <data key="d8">False</data>
+      <data key="d14">5.252</data>
+    </edge>
+    <edge source="582908321" target="963709340" id="0">
+      <data key="d7">82805738</data>
+      <data key="d8">False</data>
+      <data key="d9">1</data>
+      <data key="d10">102</data>
+      <data key="d11">Route de Chêne</data>
+      <data key="d12">secondary</data>
+      <data key="d13">50</data>
+      <data key="d14">15.399</data>
+    </edge>
+    <edge source="582908321" target="7566642192" id="0">
+      <data key="d7">179881138</data>
+      <data key="d11">Chemin des Tulipiers</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">2.749</data>
+    </edge>
+    <edge source="582908340" target="1034422068" id="0">
+      <data key="d7">89175160</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">9.102</data>
+    </edge>
+    <edge source="582908340" target="1034422294" id="0">
+      <data key="d7">89175160</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.636</data>
+    </edge>
+    <edge source="582908377" target="582908385" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.881</data>
+    </edge>
+    <edge source="582908377" target="1903856163" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">2.435</data>
+    </edge>
+    <edge source="582908385" target="582908391" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">7.362</data>
+    </edge>
+    <edge source="582908385" target="582908377" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.881</data>
+    </edge>
+    <edge source="582908391" target="2158161851" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">7.127</data>
+    </edge>
+    <edge source="582908391" target="582908385" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">7.362</data>
+    </edge>
+    <edge source="582908396" target="582908401" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">5.638</data>
+    </edge>
+    <edge source="582908396" target="2158161847" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">9.734</data>
+    </edge>
+    <edge source="582908401" target="582908404" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">16.729</data>
+    </edge>
+    <edge source="582908401" target="582908396" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">5.638</data>
+    </edge>
+    <edge source="582908404" target="582908409" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">9.762</data>
+    </edge>
+    <edge source="582908404" target="582908401" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">16.729</data>
+    </edge>
+    <edge source="582908409" target="582908414" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">9.485</data>
+    </edge>
+    <edge source="582908409" target="582908404" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">9.762</data>
+    </edge>
+    <edge source="582908414" target="1903856094" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">12.932</data>
+    </edge>
+    <edge source="582908414" target="582908409" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">9.485</data>
+    </edge>
+    <edge source="582908414" target="1903856114" id="0">
+      <data key="d7">179940241</data>
+      <data key="d12">service</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">27.895</data>
+    </edge>
+    <edge source="582908414" target="1903856096" id="0">
+      <data key="d7">179940241</data>
+      <data key="d12">service</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">7.977</data>
+    </edge>
+    <edge source="582908420" target="2158161773" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">21.971</data>
+    </edge>
+    <edge source="582908420" target="1903856093" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">7.419</data>
+    </edge>
+    <edge source="582908426" target="582908431" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">6.998</data>
+    </edge>
+    <edge source="582908426" target="2158161773" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">14.07</data>
+    </edge>
+    <edge source="582908431" target="1903856120" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">16.089</data>
+    </edge>
+    <edge source="582908431" target="582908426" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">6.998</data>
+    </edge>
+    <edge source="582908432" target="582908434" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">11.31</data>
+    </edge>
+    <edge source="582908432" target="2158161855" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">5.44</data>
+    </edge>
+    <edge source="582908434" target="1903856136" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">0.861</data>
+    </edge>
+    <edge source="582908434" target="582908432" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">11.31</data>
+    </edge>
+    <edge source="582908448" target="9278281956" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">56.982</data>
+    </edge>
+    <edge source="582908448" target="1903856136" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">1.887</data>
+    </edge>
+    <edge source="582908448" target="1903856144" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">15.44</data>
+    </edge>
+    <edge source="582908452" target="1903124537" id="0">
+      <data key="d7">179881138</data>
+      <data key="d11">Chemin des Tulipiers</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">10.319</data>
+    </edge>
+    <edge source="582908452" target="1903124545" id="0">
+      <data key="d7">179881138</data>
+      <data key="d11">Chemin des Tulipiers</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">6.489</data>
+    </edge>
+    <edge source="582908452" target="9278281956" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.228</data>
+    </edge>
+    <edge source="903997692" target="903997748" id="0">
+      <data key="d7">197862900</data>
+      <data key="d11">Chemin Frank-Thomas</data>
+      <data key="d12">tertiary</data>
+      <data key="d13">40</data>
+      <data key="d8">False</data>
+      <data key="d14">15.93</data>
+    </edge>
+    <edge source="903997692" target="7129064173" id="0">
+      <data key="d7">197862900</data>
+      <data key="d11">Chemin Frank-Thomas</data>
+      <data key="d12">tertiary</data>
+      <data key="d13">40</data>
+      <data key="d8">False</data>
+      <data key="d14">16.564</data>
+    </edge>
+    <edge source="903997721" target="582902718" id="0">
+      <data key="d7">762942202</data>
+      <data key="d11">Chemin Frank-Thomas</data>
+      <data key="d12">tertiary</data>
+      <data key="d13">50</data>
+      <data key="d8">False</data>
+      <data key="d14">17.285</data>
+    </edge>
+    <edge source="903997745" target="297724655" id="0">
+      <data key="d7">27136706</data>
+      <data key="d8">False</data>
+      <data key="d9">2</data>
+      <data key="d11">Avenue de la Gare des Eaux-Vives</data>
+      <data key="d12">residential</data>
+      <data key="d13">50</data>
+      <data key="d14">17.124</data>
+    </edge>
+    <edge source="903997748" target="582902718" id="0">
+      <data key="d7">197862900</data>
+      <data key="d11">Chemin Frank-Thomas</data>
+      <data key="d12">tertiary</data>
+      <data key="d13">40</data>
+      <data key="d8">False</data>
+      <data key="d14">18.927</data>
+    </edge>
+    <edge source="903997748" target="903997692" id="0">
+      <data key="d7">197862900</data>
+      <data key="d11">Chemin Frank-Thomas</data>
+      <data key="d12">tertiary</data>
+      <data key="d13">40</data>
+      <data key="d8">False</data>
+      <data key="d14">15.93</data>
+    </edge>
+    <edge source="903997815" target="6358394385" id="0">
+      <data key="d7">45773359</data>
+      <data key="d11">Chemin Frank-Thomas</data>
+      <data key="d12">tertiary</data>
+      <data key="d13">50</data>
+      <data key="d8">False</data>
+      <data key="d14">20.252</data>
+    </edge>
+    <edge source="903997815" target="297724655" id="0">
+      <data key="d7">45773359</data>
+      <data key="d11">Chemin Frank-Thomas</data>
+      <data key="d12">tertiary</data>
+      <data key="d13">50</data>
+      <data key="d8">False</data>
+      <data key="d14">17.159</data>
+    </edge>
+    <edge source="903997815" target="7577177870" id="0">
+      <data key="d7">810413894</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">9.034</data>
+    </edge>
+    <edge source="963709147" target="497342" id="0">
+      <data key="d7">82805738</data>
+      <data key="d8">False</data>
+      <data key="d9">1</data>
+      <data key="d10">102</data>
+      <data key="d11">Route de Chêne</data>
+      <data key="d12">secondary</data>
+      <data key="d13">50</data>
+      <data key="d14">13.395</data>
+    </edge>
+    <edge source="963709147" target="963709275" id="0">
+      <data key="d7">82805738</data>
+      <data key="d8">False</data>
+      <data key="d9">1</data>
+      <data key="d10">102</data>
+      <data key="d11">Route de Chêne</data>
+      <data key="d12">secondary</data>
+      <data key="d13">50</data>
+      <data key="d14">8.714</data>
+    </edge>
+    <edge source="963709178" target="1034422012" id="0">
+      <data key="d7">82805727</data>
+      <data key="d8">False</data>
+      <data key="d9">2</data>
+      <data key="d10">102</data>
+      <data key="d11">Route de Chêne</data>
+      <data key="d12">secondary</data>
+      <data key="d13">50</data>
+      <data key="d14">6.365</data>
+    </edge>
+    <edge source="963709178" target="963709295" id="0">
+      <data key="d7">82805727</data>
+      <data key="d8">False</data>
+      <data key="d9">2</data>
+      <data key="d10">102</data>
+      <data key="d11">Route de Chêne</data>
+      <data key="d12">secondary</data>
+      <data key="d13">50</data>
+      <data key="d14">29.571</data>
+    </edge>
+    <edge source="963709178" target="6031228195" id="0">
+      <data key="d7">640201147</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.18</data>
+    </edge>
+    <edge source="963709178" target="6031228265" id="0">
+      <data key="d7">640201147</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">5.504</data>
+    </edge>
+    <edge source="963709179" target="6031216708" id="0">
+      <data key="d7">8367436</data>
+      <data key="d11">Avenue Godefroy</data>
+      <data key="d12">residential</data>
+      <data key="d13">40</data>
+      <data key="d8">False</data>
+      <data key="d14">1.97</data>
+    </edge>
+    <edge source="963709179" target="6031216717" id="0">
+      <data key="d7">8367436</data>
+      <data key="d11">Avenue Godefroy</data>
+      <data key="d12">residential</data>
+      <data key="d13">40</data>
+      <data key="d8">False</data>
+      <data key="d14">24.538</data>
+    </edge>
+    <edge source="963709221" target="963709232" id="0">
+      <data key="d7">345891437</data>
+      <data key="d8">False</data>
+      <data key="d9">2</data>
+      <data key="d10">102</data>
+      <data key="d11">Route de Chêne</data>
+      <data key="d12">secondary</data>
+      <data key="d13">50</data>
+      <data key="d14">15.901</data>
+    </edge>
+    <edge source="963709221" target="963709422" id="0">
+      <data key="d7">345891437</data>
+      <data key="d8">False</data>
+      <data key="d9">2</data>
+      <data key="d10">102</data>
+      <data key="d11">Route de Chêne</data>
+      <data key="d12">secondary</data>
+      <data key="d13">50</data>
+      <data key="d14">16.855</data>
+    </edge>
+    <edge source="963709232" target="6031216716" id="0">
+      <data key="d7">179940241</data>
+      <data key="d12">service</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">6.525</data>
+    </edge>
+    <edge source="963709232" target="963709295" id="0">
+      <data key="d7">345891437</data>
+      <data key="d8">False</data>
+      <data key="d9">2</data>
+      <data key="d10">102</data>
+      <data key="d11">Route de Chêne</data>
+      <data key="d12">secondary</data>
+      <data key="d13">50</data>
+      <data key="d14">117.499</data>
+    </edge>
+    <edge source="963709232" target="963709221" id="0">
+      <data key="d7">345891437</data>
+      <data key="d8">False</data>
+      <data key="d9">2</data>
+      <data key="d10">102</data>
+      <data key="d11">Route de Chêne</data>
+      <data key="d12">secondary</data>
+      <data key="d13">50</data>
+      <data key="d14">15.901</data>
+    </edge>
+    <edge source="963709275" target="963709147" id="0">
+      <data key="d7">82805738</data>
+      <data key="d8">False</data>
+      <data key="d9">1</data>
+      <data key="d10">102</data>
+      <data key="d11">Route de Chêne</data>
+      <data key="d12">secondary</data>
+      <data key="d13">50</data>
+      <data key="d14">8.714</data>
+    </edge>
+    <edge source="963709275" target="963709340" id="0">
+      <data key="d7">82805738</data>
+      <data key="d8">False</data>
+      <data key="d9">1</data>
+      <data key="d10">102</data>
+      <data key="d11">Route de Chêne</data>
+      <data key="d12">secondary</data>
+      <data key="d13">50</data>
+      <data key="d14">13.181</data>
+    </edge>
+    <edge source="963709295" target="963709178" id="0">
+      <data key="d7">82805727</data>
+      <data key="d8">False</data>
+      <data key="d9">2</data>
+      <data key="d10">102</data>
+      <data key="d11">Route de Chêne</data>
+      <data key="d12">secondary</data>
+      <data key="d13">50</data>
+      <data key="d14">29.571</data>
+    </edge>
+    <edge source="963709295" target="963709232" id="0">
+      <data key="d7">345891437</data>
+      <data key="d8">False</data>
+      <data key="d9">2</data>
+      <data key="d10">102</data>
+      <data key="d11">Route de Chêne</data>
+      <data key="d12">secondary</data>
+      <data key="d13">50</data>
+      <data key="d14">117.499</data>
+    </edge>
+    <edge source="963709340" target="963709275" id="0">
+      <data key="d7">82805738</data>
+      <data key="d8">False</data>
+      <data key="d9">1</data>
+      <data key="d10">102</data>
+      <data key="d11">Route de Chêne</data>
+      <data key="d12">secondary</data>
+      <data key="d13">50</data>
+      <data key="d14">13.181</data>
+    </edge>
+    <edge source="963709340" target="582908321" id="0">
+      <data key="d7">82805738</data>
+      <data key="d8">False</data>
+      <data key="d9">1</data>
+      <data key="d10">102</data>
+      <data key="d11">Route de Chêne</data>
+      <data key="d12">secondary</data>
+      <data key="d13">50</data>
+      <data key="d14">15.399</data>
+    </edge>
+    <edge source="963709422" target="497342" id="0">
+      <data key="d7">82805738</data>
+      <data key="d8">False</data>
+      <data key="d9">1</data>
+      <data key="d10">102</data>
+      <data key="d11">Route de Chêne</data>
+      <data key="d12">secondary</data>
+      <data key="d13">50</data>
+      <data key="d14">13.607</data>
+    </edge>
+    <edge source="963709422" target="963709221" id="0">
+      <data key="d7">345891437</data>
+      <data key="d8">False</data>
+      <data key="d9">2</data>
+      <data key="d10">102</data>
+      <data key="d11">Route de Chêne</data>
+      <data key="d12">secondary</data>
+      <data key="d13">50</data>
+      <data key="d14">16.855</data>
+    </edge>
+    <edge source="992071192" target="9278281985" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">5.406</data>
+    </edge>
+    <edge source="992071192" target="582908225" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">6.967</data>
+    </edge>
+    <edge source="992071268" target="2154406872" id="0">
+      <data key="d7">85537715</data>
+      <data key="d12">service</data>
+      <data key="d15">parking_aisle</data>
+      <data key="d8">False</data>
+      <data key="d14">15.844</data>
+    </edge>
+    <edge source="992071268" target="9278281983" id="0">
+      <data key="d7">85537715</data>
+      <data key="d12">service</data>
+      <data key="d15">parking_aisle</data>
+      <data key="d8">False</data>
+      <data key="d14">18.823</data>
+    </edge>
+    <edge source="992071611" target="9278281987" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">4.088</data>
+    </edge>
+    <edge source="992071611" target="582908233" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">3.874</data>
+    </edge>
+    <edge source="1034421946" target="1034422022" id="0">
+      <data key="d7">89175121</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">3.823</data>
+    </edge>
+    <edge source="1034421946" target="1034422143" id="0">
+      <data key="d7">89175121</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">2.773</data>
+    </edge>
+    <edge source="1034422012" target="6031216708" id="0">
+      <data key="d7">8367436</data>
+      <data key="d11">Avenue Godefroy</data>
+      <data key="d12">residential</data>
+      <data key="d13">40</data>
+      <data key="d8">False</data>
+      <data key="d14">5.322</data>
+    </edge>
+    <edge source="1034422012" target="963709178" id="0">
+      <data key="d7">82805727</data>
+      <data key="d8">False</data>
+      <data key="d9">2</data>
+      <data key="d10">102</data>
+      <data key="d11">Route de Chêne</data>
+      <data key="d12">secondary</data>
+      <data key="d13">50</data>
+      <data key="d14">6.365</data>
+    </edge>
+    <edge source="1034422022" target="1034421946" id="0">
+      <data key="d7">89175121</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">3.823</data>
+    </edge>
+    <edge source="1034422022" target="1034422354" id="0">
+      <data key="d7">89175200</data>
+      <data key="d17">yes</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">2.49</data>
+    </edge>
+    <edge source="1034422068" target="1034422150" id="0">
+      <data key="d7">89175160</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">6.986</data>
+    </edge>
+    <edge source="1034422068" target="582908340" id="0">
+      <data key="d7">89175160</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">9.102</data>
+    </edge>
+    <edge source="1034422143" target="1034421946" id="0">
+      <data key="d7">89175121</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">2.773</data>
+    </edge>
+    <edge source="1034422143" target="1034422294" id="0">
+      <data key="d7">89175121</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">6.016</data>
+    </edge>
+    <edge source="1034422150" target="1903856061" id="0">
+      <data key="d7">89175160</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">5.596</data>
+    </edge>
+    <edge source="1034422150" target="1034422068" id="0">
+      <data key="d7">89175160</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">6.986</data>
+    </edge>
+    <edge source="1034422294" target="6031216719" id="0">
+      <data key="d7">45773370</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">14.48</data>
+    </edge>
+    <edge source="1034422294" target="1034422143" id="0">
+      <data key="d7">89175121</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">6.016</data>
+    </edge>
+    <edge source="1034422294" target="582908340" id="0">
+      <data key="d7">89175160</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.636</data>
+    </edge>
+    <edge source="1034422354" target="1034422022" id="0">
+      <data key="d7">89175200</data>
+      <data key="d17">yes</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">2.49</data>
+    </edge>
+    <edge source="1903124398" target="3525163830" id="0">
+      <data key="d7">80745298</data>
+      <data key="d12">service</data>
+      <data key="d16">no</data>
+      <data key="d8">False</data>
+      <data key="d14">134.221</data>
+    </edge>
+    <edge source="1903124398" target="6031228464" id="0">
+      <data key="d7">80745298</data>
+      <data key="d12">service</data>
+      <data key="d16">no</data>
+      <data key="d8">False</data>
+      <data key="d14">13.466</data>
+    </edge>
+    <edge source="1903124472" target="6031216711" id="0">
+      <data key="d7">179881138</data>
+      <data key="d11">Chemin des Tulipiers</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">19.367</data>
+    </edge>
+    <edge source="1903124472" target="1903124504" id="0">
+      <data key="d7">179881138</data>
+      <data key="d11">Chemin des Tulipiers</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">18.082</data>
+    </edge>
+    <edge source="1903124504" target="1903124472" id="0">
+      <data key="d7">179881138</data>
+      <data key="d11">Chemin des Tulipiers</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">18.082</data>
+    </edge>
+    <edge source="1903124504" target="1903124534" id="0">
+      <data key="d7">179881138</data>
+      <data key="d11">Chemin des Tulipiers</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">58.063</data>
+    </edge>
+    <edge source="1903124534" target="1903124504" id="0">
+      <data key="d7">179881138</data>
+      <data key="d11">Chemin des Tulipiers</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">58.063</data>
+    </edge>
+    <edge source="1903124534" target="1903124537" id="0">
+      <data key="d7">179881138</data>
+      <data key="d11">Chemin des Tulipiers</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">5.362</data>
+    </edge>
+    <edge source="1903124537" target="1903124534" id="0">
+      <data key="d7">179881138</data>
+      <data key="d11">Chemin des Tulipiers</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">5.362</data>
+    </edge>
+    <edge source="1903124537" target="582908452" id="0">
+      <data key="d7">179881138</data>
+      <data key="d11">Chemin des Tulipiers</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">10.319</data>
+    </edge>
+    <edge source="1903124545" target="582908452" id="0">
+      <data key="d7">179881138</data>
+      <data key="d11">Chemin des Tulipiers</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">6.489</data>
+    </edge>
+    <edge source="1903124545" target="1903124560" id="0">
+      <data key="d7">179881138</data>
+      <data key="d11">Chemin des Tulipiers</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">26.858</data>
+    </edge>
+    <edge source="1903124560" target="1903124545" id="0">
+      <data key="d7">179881138</data>
+      <data key="d11">Chemin des Tulipiers</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">26.858</data>
+    </edge>
+    <edge source="1903124560" target="1903124569" id="0">
+      <data key="d7">179881138</data>
+      <data key="d11">Chemin des Tulipiers</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">7.892</data>
+    </edge>
+    <edge source="1903124569" target="1903124560" id="0">
+      <data key="d7">179881138</data>
+      <data key="d11">Chemin des Tulipiers</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">7.892</data>
+    </edge>
+    <edge source="1903124569" target="1903124572" id="0">
+      <data key="d7">179881138</data>
+      <data key="d11">Chemin des Tulipiers</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">2.868</data>
+    </edge>
+    <edge source="1903124572" target="1903124569" id="0">
+      <data key="d7">179881138</data>
+      <data key="d11">Chemin des Tulipiers</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">2.868</data>
+    </edge>
+    <edge source="1903124572" target="2158161863" id="0">
+      <data key="d7">179881138</data>
+      <data key="d11">Chemin des Tulipiers</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">6.259</data>
+    </edge>
+    <edge source="1903124602" target="2154406943" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.168</data>
+    </edge>
+    <edge source="1903856057" target="2077445502" id="0">
+      <data key="d7">179940241</data>
+      <data key="d12">service</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">6.885</data>
+    </edge>
+    <edge source="1903856057" target="2077445470" id="0">
+      <data key="d7">179940241</data>
+      <data key="d12">service</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">19.695</data>
+    </edge>
+    <edge source="1903856061" target="1034422150" id="0">
+      <data key="d7">89175160</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">5.596</data>
+    </edge>
+    <edge source="1903856063" target="1903856090" id="0">
+      <data key="d7">179940241</data>
+      <data key="d12">service</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">26.789</data>
+    </edge>
+    <edge source="1903856063" target="2077445502" id="0">
+      <data key="d7">179940241</data>
+      <data key="d12">service</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">10.467</data>
+    </edge>
+    <edge source="1903856086" target="1903856096" id="0">
+      <data key="d7">179940228</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">22.517</data>
+    </edge>
+    <edge source="1903856090" target="1903856096" id="0">
+      <data key="d7">179940241</data>
+      <data key="d12">service</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">13.453</data>
+    </edge>
+    <edge source="1903856090" target="1903856063" id="0">
+      <data key="d7">179940241</data>
+      <data key="d12">service</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">26.789</data>
+    </edge>
+    <edge source="1903856093" target="582908420" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">7.419</data>
+    </edge>
+    <edge source="1903856093" target="1903856094" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">9.56</data>
+    </edge>
+    <edge source="1903856094" target="1903856093" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">9.56</data>
+    </edge>
+    <edge source="1903856094" target="582908414" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">12.932</data>
+    </edge>
+    <edge source="1903856096" target="1903856086" id="0">
+      <data key="d7">179940228</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">22.517</data>
+    </edge>
+    <edge source="1903856096" target="582908414" id="0">
+      <data key="d7">179940241</data>
+      <data key="d12">service</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">7.977</data>
+    </edge>
+    <edge source="1903856096" target="1903856090" id="0">
+      <data key="d7">179940241</data>
+      <data key="d12">service</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">13.453</data>
+    </edge>
+    <edge source="1903856114" target="1903856148" id="0">
+      <data key="d7">179940241</data>
+      <data key="d12">service</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">31.048</data>
+    </edge>
+    <edge source="1903856114" target="582908414" id="0">
+      <data key="d7">179940241</data>
+      <data key="d12">service</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">27.895</data>
+    </edge>
+    <edge source="1903856120" target="2158161855" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">15.233</data>
+    </edge>
+    <edge source="1903856120" target="582908431" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">16.089</data>
+    </edge>
+    <edge source="1903856136" target="582908448" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">1.887</data>
+    </edge>
+    <edge source="1903856136" target="582908434" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">0.861</data>
+    </edge>
+    <edge source="1903856144" target="1903856166" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">9.647</data>
+    </edge>
+    <edge source="1903856144" target="582908448" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">15.44</data>
+    </edge>
+    <edge source="1903856148" target="2078099990" id="0">
+      <data key="d7">179940229</data>
+      <data key="d12">service</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">36.253</data>
+    </edge>
+    <edge source="1903856148" target="2078099973" id="0">
+      <data key="d7">179940241</data>
+      <data key="d12">service</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">3.813</data>
+    </edge>
+    <edge source="1903856148" target="1903856114" id="0">
+      <data key="d7">179940241</data>
+      <data key="d12">service</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">31.048</data>
+    </edge>
+    <edge source="1903856163" target="582908377" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">2.435</data>
+    </edge>
+    <edge source="1903856166" target="1903856172" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">11.987</data>
+    </edge>
+    <edge source="1903856166" target="1903856144" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">9.647</data>
+    </edge>
+    <edge source="1903856172" target="2158161906" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">2.57</data>
+    </edge>
+    <edge source="1903856172" target="1903856166" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">11.987</data>
+    </edge>
+    <edge source="1903856199" target="2154406942" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.182</data>
+    </edge>
+    <edge source="1903856199" target="2158161906" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">17.195</data>
+    </edge>
+    <edge source="1903856350" target="6358394385" id="0">
+      <data key="d7">45773359</data>
+      <data key="d11">Chemin Frank-Thomas</data>
+      <data key="d12">tertiary</data>
+      <data key="d13">50</data>
+      <data key="d8">False</data>
+      <data key="d14">22.052</data>
+    </edge>
+    <edge source="1904162832" target="9278281953" id="0">
+      <data key="d7">179969930</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d8">False</data>
+      <data key="d14">29.093</data>
+    </edge>
+    <edge source="1904162847" target="9278281952" id="0">
+      <data key="d7">179969923</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d8">False</data>
+      <data key="d14">28.216</data>
+    </edge>
+    <edge source="1904162858" target="1904162881" id="0">
+      <data key="d7">45773369</data>
+      <data key="d11">Avenue Rosemont</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">17.849</data>
+    </edge>
+    <edge source="1904162858" target="9278281953" id="0">
+      <data key="d7">179969930</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.772</data>
+    </edge>
+    <edge source="1904162881" target="1904162913" id="0">
+      <data key="d7">45773369</data>
+      <data key="d11">Avenue Rosemont</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">31.459</data>
+    </edge>
+    <edge source="1904162881" target="1904162858" id="0">
+      <data key="d7">45773369</data>
+      <data key="d11">Avenue Rosemont</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">17.849</data>
+    </edge>
+    <edge source="1904162881" target="9278281952" id="0">
+      <data key="d7">179969923</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.855</data>
+    </edge>
+    <edge source="1904162887" target="1904162971" id="0">
+      <data key="d7">179969935</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d8">False</data>
+      <data key="d14">62.939</data>
+    </edge>
+    <edge source="1904162894" target="1904162921" id="0">
+      <data key="d7">179969920</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">25.852</data>
+    </edge>
+    <edge source="1904162907" target="1904162942" id="0">
+      <data key="d7">179969939</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">31.702</data>
+    </edge>
+    <edge source="1904162908" target="9278281968" id="0">
+      <data key="d7">179969927</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">37.888</data>
+    </edge>
+    <edge source="1904162913" target="1904162921" id="0">
+      <data key="d7">45773369</data>
+      <data key="d11">Avenue Rosemont</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">4.696</data>
+    </edge>
+    <edge source="1904162913" target="1904162881" id="0">
+      <data key="d7">45773369</data>
+      <data key="d11">Avenue Rosemont</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">31.459</data>
+    </edge>
+    <edge source="1904162913" target="1904162971" id="0">
+      <data key="d7">179969935</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d8">False</data>
+      <data key="d14">41.888</data>
+    </edge>
+    <edge source="1904162921" target="1904162932" id="0">
+      <data key="d7">45773369</data>
+      <data key="d11">Avenue Rosemont</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">8.77</data>
+    </edge>
+    <edge source="1904162921" target="1904162913" id="0">
+      <data key="d7">45773369</data>
+      <data key="d11">Avenue Rosemont</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">4.696</data>
+    </edge>
+    <edge source="1904162921" target="1904162894" id="0">
+      <data key="d7">179969920</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">25.852</data>
+    </edge>
+    <edge source="1904162932" target="1904162958" id="0">
+      <data key="d7">45773369</data>
+      <data key="d11">Avenue Rosemont</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">20.043</data>
+    </edge>
+    <edge source="1904162932" target="1904162921" id="0">
+      <data key="d7">45773369</data>
+      <data key="d11">Avenue Rosemont</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">8.77</data>
+    </edge>
+    <edge source="1904162932" target="9278281967" id="0">
+      <data key="d7">179969926</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.904</data>
+    </edge>
+    <edge source="1904162942" target="1904163003" id="0">
+      <data key="d7">179969918</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d8">False</data>
+      <data key="d14">38.249</data>
+    </edge>
+    <edge source="1904162942" target="1904162907" id="0">
+      <data key="d7">179969939</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">31.702</data>
+    </edge>
+    <edge source="1904162942" target="1904163028" id="0">
+      <data key="d7">179969939</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">54.844</data>
+    </edge>
+    <edge source="1904162958" target="9278281934" id="0">
+      <data key="d7">45773369</data>
+      <data key="d11">Avenue Rosemont</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">41.664</data>
+    </edge>
+    <edge source="1904162958" target="1904162932" id="0">
+      <data key="d7">45773369</data>
+      <data key="d11">Avenue Rosemont</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">20.043</data>
+    </edge>
+    <edge source="1904162958" target="9278281968" id="0">
+      <data key="d7">179969927</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">5.203</data>
+    </edge>
+    <edge source="1904162971" target="1904162887" id="0">
+      <data key="d7">179969935</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d8">False</data>
+      <data key="d14">62.939</data>
+    </edge>
+    <edge source="1904162971" target="1904162913" id="0">
+      <data key="d7">179969935</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d8">False</data>
+      <data key="d14">41.888</data>
+    </edge>
+    <edge source="1904162975" target="9278281967" id="0">
+      <data key="d7">179969926</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d8">False</data>
+      <data key="d14">29.368</data>
+    </edge>
+    <edge source="1904162986" target="1904163028" id="0">
+      <data key="d7">179969921</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">28.215</data>
+    </edge>
+    <edge source="1904163003" target="1904162942" id="0">
+      <data key="d7">179969918</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d8">False</data>
+      <data key="d14">38.249</data>
+    </edge>
+    <edge source="1904163013" target="1904163053" id="0">
+      <data key="d7">179969924</data>
+      <data key="d12">service</data>
+      <data key="d15">parking_aisle</data>
+      <data key="d8">False</data>
+      <data key="d14">26.266</data>
+    </edge>
+    <edge source="1904163028" target="1904162986" id="0">
+      <data key="d7">179969921</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">28.215</data>
+    </edge>
+    <edge source="1904163028" target="1904162942" id="0">
+      <data key="d7">179969939</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">54.844</data>
+    </edge>
+    <edge source="1904163028" target="1904163038" id="0">
+      <data key="d7">179969939</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">10.677</data>
+    </edge>
+    <edge source="1904163038" target="1904163053" id="0">
+      <data key="d7">179969934</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d8">False</data>
+      <data key="d14">8.924</data>
+    </edge>
+    <edge source="1904163038" target="1904163028" id="0">
+      <data key="d7">179969939</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">10.677</data>
+    </edge>
+    <edge source="1904163038" target="9278281963" id="0">
+      <data key="d7">179969939</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">23.095</data>
+    </edge>
+    <edge source="1904163053" target="1904163013" id="0">
+      <data key="d7">179969924</data>
+      <data key="d12">service</data>
+      <data key="d15">parking_aisle</data>
+      <data key="d8">False</data>
+      <data key="d14">26.266</data>
+    </edge>
+    <edge source="1904163053" target="1904163061" id="0">
+      <data key="d7">179969934</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d8">False</data>
+      <data key="d14">6.613</data>
+    </edge>
+    <edge source="1904163053" target="1904163038" id="0">
+      <data key="d7">179969934</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d8">False</data>
+      <data key="d14">8.924</data>
+    </edge>
+    <edge source="1904163061" target="1904163053" id="0">
+      <data key="d7">179969934</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d8">False</data>
+      <data key="d14">6.613</data>
+    </edge>
+    <edge source="1904163087" target="1904163108" id="0">
+      <data key="d7">179969942</data>
+      <data key="d11">Chemin Frank-Thomas</data>
+      <data key="d12">residential</data>
+      <data key="d13">10</data>
+      <data key="d8">False</data>
+      <data key="d14">42.915</data>
+    </edge>
+    <edge source="1904163108" target="1904163087" id="0">
+      <data key="d7">179969942</data>
+      <data key="d11">Chemin Frank-Thomas</data>
+      <data key="d12">residential</data>
+      <data key="d13">10</data>
+      <data key="d8">False</data>
+      <data key="d14">42.915</data>
+    </edge>
+    <edge source="1904163108" target="1904163110" id="0">
+      <data key="d7">179969942</data>
+      <data key="d11">Chemin Frank-Thomas</data>
+      <data key="d12">residential</data>
+      <data key="d13">10</data>
+      <data key="d8">False</data>
+      <data key="d14">5.467</data>
+    </edge>
+    <edge source="1904163108" target="2080615110" id="0">
+      <data key="d7">197862941</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">5.372</data>
+    </edge>
+    <edge source="1904163110" target="1904163108" id="0">
+      <data key="d7">179969942</data>
+      <data key="d11">Chemin Frank-Thomas</data>
+      <data key="d12">residential</data>
+      <data key="d13">10</data>
+      <data key="d8">False</data>
+      <data key="d14">5.467</data>
+    </edge>
+    <edge source="1904163110" target="9278281924" id="0">
+      <data key="d7">179969942</data>
+      <data key="d11">Chemin Frank-Thomas</data>
+      <data key="d12">residential</data>
+      <data key="d13">10</data>
+      <data key="d8">False</data>
+      <data key="d14">15.512</data>
+    </edge>
+    <edge source="2077445463" target="2077445470" id="0">
+      <data key="d7">179940241</data>
+      <data key="d12">service</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">8.963</data>
+    </edge>
+    <edge source="2077445463" target="6031216716" id="0">
+      <data key="d7">179940241</data>
+      <data key="d12">service</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">1.475</data>
+    </edge>
+    <edge source="2077445463" target="2077445468" id="0">
+      <data key="d7">197516310</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">6.994</data>
+    </edge>
+    <edge source="2077445468" target="2077445475" id="0">
+      <data key="d7">197516310</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">9.088</data>
+    </edge>
+    <edge source="2077445468" target="2077445463" id="0">
+      <data key="d7">197516310</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">6.994</data>
+    </edge>
+    <edge source="2077445470" target="1903856057" id="0">
+      <data key="d7">179940241</data>
+      <data key="d12">service</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">19.695</data>
+    </edge>
+    <edge source="2077445470" target="2077445463" id="0">
+      <data key="d7">179940241</data>
+      <data key="d12">service</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">8.963</data>
+    </edge>
+    <edge source="2077445475" target="2077445489" id="0">
+      <data key="d7">197516310</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">8.914</data>
+    </edge>
+    <edge source="2077445475" target="2077445468" id="0">
+      <data key="d7">197516310</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">9.088</data>
+    </edge>
+    <edge source="2077445489" target="2077445499" id="0">
+      <data key="d7">197516310</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">8.263</data>
+    </edge>
+    <edge source="2077445489" target="2077445475" id="0">
+      <data key="d7">197516310</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">8.914</data>
+    </edge>
+    <edge source="2077445495" target="2077445535" id="0">
+      <data key="d7">45773366</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">35.406</data>
+    </edge>
+    <edge source="2077445495" target="582908223" id="0">
+      <data key="d7">45773366</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">7.212</data>
+    </edge>
+    <edge source="2077445495" target="9278281981" id="0">
+      <data key="d7">1005626186</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.533</data>
+    </edge>
+    <edge source="2077445495" target="9278282002" id="0">
+      <data key="d7">1005626186</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">7.66</data>
+    </edge>
+    <edge source="2077445499" target="2077445510" id="0">
+      <data key="d7">197516310</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">8.229</data>
+    </edge>
+    <edge source="2077445499" target="2077445489" id="0">
+      <data key="d7">197516310</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">8.263</data>
+    </edge>
+    <edge source="2077445502" target="1903856063" id="0">
+      <data key="d7">179940241</data>
+      <data key="d12">service</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">10.467</data>
+    </edge>
+    <edge source="2077445502" target="1903856057" id="0">
+      <data key="d7">179940241</data>
+      <data key="d12">service</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">6.885</data>
+    </edge>
+    <edge source="2077445510" target="2077445519" id="0">
+      <data key="d7">197516310</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">9.353</data>
+    </edge>
+    <edge source="2077445510" target="2077445499" id="0">
+      <data key="d7">197516310</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">8.229</data>
+    </edge>
+    <edge source="2077445519" target="2077445531" id="0">
+      <data key="d7">197516310</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">9.973</data>
+    </edge>
+    <edge source="2077445519" target="2077445510" id="0">
+      <data key="d7">197516310</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">9.353</data>
+    </edge>
+    <edge source="2077445531" target="2077445551" id="0">
+      <data key="d7">197516310</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">7.571</data>
+    </edge>
+    <edge source="2077445531" target="2077445519" id="0">
+      <data key="d7">197516310</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">9.973</data>
+    </edge>
+    <edge source="2077445535" target="582908224" id="0">
+      <data key="d7">45773366</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">19.23</data>
+    </edge>
+    <edge source="2077445535" target="2077445495" id="0">
+      <data key="d7">45773366</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">35.406</data>
+    </edge>
+    <edge source="2077445551" target="2077445531" id="0">
+      <data key="d7">197516310</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">7.571</data>
+    </edge>
+    <edge source="2078099973" target="1903856148" id="0">
+      <data key="d7">179940241</data>
+      <data key="d12">service</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">3.813</data>
+    </edge>
+    <edge source="2078099990" target="1903856148" id="0">
+      <data key="d7">179940229</data>
+      <data key="d12">service</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">36.253</data>
+    </edge>
+    <edge source="2080615007" target="2080615011" id="0">
+      <data key="d7">197862961</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">1.249</data>
+    </edge>
+    <edge source="2080615011" target="2080615007" id="0">
+      <data key="d7">197862961</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">1.249</data>
+    </edge>
+    <edge source="2080615011" target="2080615015" id="0">
+      <data key="d7">197862961</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.14</data>
+    </edge>
+    <edge source="2080615015" target="2080615011" id="0">
+      <data key="d7">197862961</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.14</data>
+    </edge>
+    <edge source="2080615015" target="2080615018" id="0">
+      <data key="d7">197862961</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">2.697</data>
+    </edge>
+    <edge source="2080615018" target="2080615033" id="0">
+      <data key="d7">197862937</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">12.737</data>
+    </edge>
+    <edge source="2080615018" target="2080615015" id="0">
+      <data key="d7">197862961</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">2.697</data>
+    </edge>
+    <edge source="2080615033" target="2080615018" id="0">
+      <data key="d7">197862937</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">12.737</data>
+    </edge>
+    <edge source="2080615033" target="2080615038" id="0">
+      <data key="d7">197862949</data>
+      <data key="d12">steps</data>
+      <data key="d8">False</data>
+      <data key="d14">4.591</data>
+    </edge>
+    <edge source="2080615038" target="2080615033" id="0">
+      <data key="d7">197862949</data>
+      <data key="d12">steps</data>
+      <data key="d8">False</data>
+      <data key="d14">4.591</data>
+    </edge>
+    <edge source="2080615101" target="2080615108" id="0">
+      <data key="d7">197862955</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">7.655</data>
+    </edge>
+    <edge source="2080615108" target="2080615101" id="0">
+      <data key="d7">197862955</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">7.655</data>
+    </edge>
+    <edge source="2080615108" target="9278281926" id="0">
+      <data key="d7">197862955</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">16.168</data>
+    </edge>
+    <edge source="2080615110" target="1904163108" id="0">
+      <data key="d7">197862941</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">5.372</data>
+    </edge>
+    <edge source="2154406821" target="9278281978" id="0">
+      <data key="d7">8367436</data>
+      <data key="d11">Avenue Godefroy</data>
+      <data key="d12">residential</data>
+      <data key="d13">40</data>
+      <data key="d8">False</data>
+      <data key="d14">30.464</data>
+    </edge>
+    <edge source="2154406821" target="2154406850" id="0">
+      <data key="d7">8367436</data>
+      <data key="d11">Avenue Godefroy</data>
+      <data key="d12">residential</data>
+      <data key="d13">40</data>
+      <data key="d8">False</data>
+      <data key="d14">37.304</data>
+    </edge>
+    <edge source="2154406850" target="2154406821" id="0">
+      <data key="d7">8367436</data>
+      <data key="d11">Avenue Godefroy</data>
+      <data key="d12">residential</data>
+      <data key="d13">40</data>
+      <data key="d8">False</data>
+      <data key="d14">37.304</data>
+    </edge>
+    <edge source="2154406850" target="9278281991" id="0">
+      <data key="d7">8367436</data>
+      <data key="d11">Avenue Godefroy</data>
+      <data key="d12">residential</data>
+      <data key="d13">40</data>
+      <data key="d8">False</data>
+      <data key="d14">8.236</data>
+    </edge>
+    <edge source="2154406872" target="992071268" id="0">
+      <data key="d7">85537715</data>
+      <data key="d12">service</data>
+      <data key="d15">parking_aisle</data>
+      <data key="d8">False</data>
+      <data key="d14">15.844</data>
+    </edge>
+    <edge source="2154406941" target="2154406953" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">7.3</data>
+    </edge>
+    <edge source="2154406941" target="2154406942" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.387</data>
+    </edge>
+    <edge source="2154406942" target="2154406941" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.387</data>
+    </edge>
+    <edge source="2154406942" target="1903856199" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.182</data>
+    </edge>
+    <edge source="2154406942" target="2154406947" id="0">
+      <data key="d7">205473910</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.225</data>
+    </edge>
+    <edge source="2154406943" target="1903124602" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.168</data>
+    </edge>
+    <edge source="2154406943" target="2154406949" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.647</data>
+    </edge>
+    <edge source="2154406947" target="2154406956" id="0">
+      <data key="d7">205473910</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">6.755</data>
+    </edge>
+    <edge source="2154406947" target="2154406942" id="0">
+      <data key="d7">205473910</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.225</data>
+    </edge>
+    <edge source="2154406949" target="2154406943" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.647</data>
+    </edge>
+    <edge source="2154406949" target="2154406954" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">8.316</data>
+    </edge>
+    <edge source="2154406953" target="2154406960" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">8.292</data>
+    </edge>
+    <edge source="2154406953" target="2154406941" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">7.3</data>
+    </edge>
+    <edge source="2154406954" target="2154406949" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">8.316</data>
+    </edge>
+    <edge source="2154406954" target="2154406963" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">7.99</data>
+    </edge>
+    <edge source="2154406956" target="2154406962" id="0">
+      <data key="d7">205473910</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">5.345</data>
+    </edge>
+    <edge source="2154406956" target="2154406947" id="0">
+      <data key="d7">205473910</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">6.755</data>
+    </edge>
+    <edge source="2154406960" target="2154406965" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.295</data>
+    </edge>
+    <edge source="2154406960" target="2154406953" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">8.292</data>
+    </edge>
+    <edge source="2154406962" target="2154406979" id="0">
+      <data key="d7">205473910</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">8.42</data>
+    </edge>
+    <edge source="2154406962" target="2154406956" id="0">
+      <data key="d7">205473910</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">5.345</data>
+    </edge>
+    <edge source="2154406963" target="2154406954" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">7.99</data>
+    </edge>
+    <edge source="2154406963" target="2154406965" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.226</data>
+    </edge>
+    <edge source="2154406965" target="2154406963" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.226</data>
+    </edge>
+    <edge source="2154406965" target="2154406960" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.295</data>
+    </edge>
+    <edge source="2154406979" target="2154406983" id="0">
+      <data key="d7">205473910</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.849</data>
+    </edge>
+    <edge source="2154406979" target="2154406962" id="0">
+      <data key="d7">205473910</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">8.42</data>
+    </edge>
+    <edge source="2154406983" target="2154406993" id="0">
+      <data key="d7">205473910</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">7.217</data>
+    </edge>
+    <edge source="2154406983" target="2154406979" id="0">
+      <data key="d7">205473910</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.849</data>
+    </edge>
+    <edge source="2154406993" target="9278281961" id="0">
+      <data key="d7">205473910</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">11.57</data>
+    </edge>
+    <edge source="2154406993" target="2154406983" id="0">
+      <data key="d7">205473910</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">7.217</data>
+    </edge>
+    <edge source="2158161443" target="2158161445" id="0">
+      <data key="d7">205831454</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">8.117</data>
+    </edge>
+    <edge source="2158161443" target="2158161505" id="0">
+      <data key="d7">205831454</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">18.704</data>
+    </edge>
+    <edge source="2158161445" target="6031216712" id="0">
+      <data key="d7">205831454</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.124</data>
+    </edge>
+    <edge source="2158161445" target="2158161443" id="0">
+      <data key="d7">205831454</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">8.117</data>
+    </edge>
+    <edge source="2158161505" target="2158161443" id="0">
+      <data key="d7">205831454</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">18.704</data>
+    </edge>
+    <edge source="2158161505" target="2158161751" id="0">
+      <data key="d7">205831454</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">75.635</data>
+    </edge>
+    <edge source="2158161751" target="2158161505" id="0">
+      <data key="d7">205831454</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">75.635</data>
+    </edge>
+    <edge source="2158161751" target="9278281933" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">6.117</data>
+    </edge>
+    <edge source="2158161773" target="582908426" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">14.07</data>
+    </edge>
+    <edge source="2158161773" target="582908420" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">21.971</data>
+    </edge>
+    <edge source="2158161847" target="582908396" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">9.734</data>
+    </edge>
+    <edge source="2158161847" target="2158161851" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">7.936</data>
+    </edge>
+    <edge source="2158161851" target="2158161847" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">7.936</data>
+    </edge>
+    <edge source="2158161851" target="582908391" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">7.127</data>
+    </edge>
+    <edge source="2158161855" target="582908432" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">5.44</data>
+    </edge>
+    <edge source="2158161855" target="1903856120" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">15.233</data>
+    </edge>
+    <edge source="2158161863" target="1903124572" id="0">
+      <data key="d7">179881138</data>
+      <data key="d11">Chemin des Tulipiers</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">6.259</data>
+    </edge>
+    <edge source="2158161863" target="9278281945" id="0">
+      <data key="d7">1005626182</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">5.889</data>
+    </edge>
+    <edge source="2158161906" target="1903856199" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">17.195</data>
+    </edge>
+    <edge source="2158161906" target="1903856172" id="0">
+      <data key="d7">179940237</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">2.57</data>
+    </edge>
+    <edge source="2158161988" target="9278281960" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">51.173</data>
+    </edge>
+    <edge source="2158161988" target="9278281961" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">6.129</data>
+    </edge>
+    <edge source="3525163825" target="6031228465" id="0">
+      <data key="d7">80745298</data>
+      <data key="d12">service</data>
+      <data key="d16">no</data>
+      <data key="d8">False</data>
+      <data key="d14">10.94</data>
+    </edge>
+    <edge source="3525163825" target="6031228466" id="0">
+      <data key="d7">80745298</data>
+      <data key="d12">service</data>
+      <data key="d16">no</data>
+      <data key="d8">False</data>
+      <data key="d14">10.916</data>
+    </edge>
+    <edge source="3525163827" target="6031228466" id="0">
+      <data key="d7">80745298</data>
+      <data key="d12">service</data>
+      <data key="d16">no</data>
+      <data key="d8">False</data>
+      <data key="d14">10.73</data>
+    </edge>
+    <edge source="3525163827" target="6031228467" id="0">
+      <data key="d7">80745298</data>
+      <data key="d12">service</data>
+      <data key="d16">no</data>
+      <data key="d8">False</data>
+      <data key="d14">11.025</data>
+    </edge>
+    <edge source="3525163829" target="6031228467" id="0">
+      <data key="d7">80745298</data>
+      <data key="d12">service</data>
+      <data key="d16">no</data>
+      <data key="d8">False</data>
+      <data key="d14">7.159</data>
+    </edge>
+    <edge source="3525163829" target="3525163830" id="0">
+      <data key="d7">80745298</data>
+      <data key="d12">service</data>
+      <data key="d16">no</data>
+      <data key="d8">False</data>
+      <data key="d14">10.013</data>
+    </edge>
+    <edge source="3525163830" target="3525163829" id="0">
+      <data key="d7">80745298</data>
+      <data key="d12">service</data>
+      <data key="d16">no</data>
+      <data key="d8">False</data>
+      <data key="d14">10.013</data>
+    </edge>
+    <edge source="3525163830" target="1903124398" id="0">
+      <data key="d7">80745298</data>
+      <data key="d12">service</data>
+      <data key="d16">no</data>
+      <data key="d8">False</data>
+      <data key="d14">134.221</data>
+    </edge>
+    <edge source="6031216708" target="1034422012" id="0">
+      <data key="d7">8367436</data>
+      <data key="d11">Avenue Godefroy</data>
+      <data key="d12">residential</data>
+      <data key="d13">40</data>
+      <data key="d8">False</data>
+      <data key="d14">5.322</data>
+    </edge>
+    <edge source="6031216708" target="963709179" id="0">
+      <data key="d7">8367436</data>
+      <data key="d11">Avenue Godefroy</data>
+      <data key="d12">residential</data>
+      <data key="d13">40</data>
+      <data key="d8">False</data>
+      <data key="d14">1.97</data>
+    </edge>
+    <edge source="6031216708" target="6031216728" id="0">
+      <data key="d7">640201381</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.195</data>
+    </edge>
+    <edge source="6031216711" target="7566642192" id="0">
+      <data key="d7">179881138</data>
+      <data key="d11">Chemin des Tulipiers</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">2.645</data>
+    </edge>
+    <edge source="6031216711" target="1903124472" id="0">
+      <data key="d7">179881138</data>
+      <data key="d11">Chemin des Tulipiers</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">19.367</data>
+    </edge>
+    <edge source="6031216711" target="6031216712" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">14.738</data>
+    </edge>
+    <edge source="6031216712" target="6031216713" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">11.422</data>
+    </edge>
+    <edge source="6031216712" target="6031216711" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">14.738</data>
+    </edge>
+    <edge source="6031216712" target="2158161445" id="0">
+      <data key="d7">205831454</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.124</data>
+    </edge>
+    <edge source="6031216713" target="6031216714" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">16.296</data>
+    </edge>
+    <edge source="6031216713" target="6031216712" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">11.422</data>
+    </edge>
+    <edge source="6031216714" target="6031216715" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">18.814</data>
+    </edge>
+    <edge source="6031216714" target="6031216713" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">16.296</data>
+    </edge>
+    <edge source="6031216715" target="6031216716" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">38.89</data>
+    </edge>
+    <edge source="6031216715" target="6031216714" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">18.814</data>
+    </edge>
+    <edge source="6031216716" target="2077445463" id="0">
+      <data key="d7">179940241</data>
+      <data key="d12">service</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">1.475</data>
+    </edge>
+    <edge source="6031216716" target="963709232" id="0">
+      <data key="d7">179940241</data>
+      <data key="d12">service</data>
+      <data key="d16">destination</data>
+      <data key="d8">False</data>
+      <data key="d14">6.525</data>
+    </edge>
+    <edge source="6031216716" target="6031228265" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">145.827</data>
+    </edge>
+    <edge source="6031216716" target="6031216715" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">38.89</data>
+    </edge>
+    <edge source="6031216717" target="963709179" id="0">
+      <data key="d7">8367436</data>
+      <data key="d11">Avenue Godefroy</data>
+      <data key="d12">residential</data>
+      <data key="d13">40</data>
+      <data key="d8">False</data>
+      <data key="d14">24.538</data>
+    </edge>
+    <edge source="6031216717" target="582908223" id="0">
+      <data key="d7">8367436</data>
+      <data key="d11">Avenue Godefroy</data>
+      <data key="d12">residential</data>
+      <data key="d13">40</data>
+      <data key="d8">False</data>
+      <data key="d14">2.19</data>
+    </edge>
+    <edge source="6031216717" target="6031216727" id="0">
+      <data key="d7">640201383</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.86</data>
+    </edge>
+    <edge source="6031216719" target="1034422294" id="0">
+      <data key="d7">45773370</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">14.48</data>
+    </edge>
+    <edge source="6031216719" target="582908224" id="0">
+      <data key="d7">45773370</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">2.712</data>
+    </edge>
+    <edge source="6031216719" target="6031216724" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">11.914</data>
+    </edge>
+    <edge source="6031216719" target="6031216725" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">18.854</data>
+    </edge>
+    <edge source="6031216720" target="9278281993" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.902</data>
+    </edge>
+    <edge source="6031216720" target="6031216721" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.472</data>
+    </edge>
+    <edge source="6031216721" target="6031216720" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.472</data>
+    </edge>
+    <edge source="6031216721" target="6031216722" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.406</data>
+    </edge>
+    <edge source="6031216722" target="6031216721" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.406</data>
+    </edge>
+    <edge source="6031216722" target="6031216723" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.109</data>
+    </edge>
+    <edge source="6031216723" target="6031216722" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.109</data>
+    </edge>
+    <edge source="6031216723" target="6031216724" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">19.592</data>
+    </edge>
+    <edge source="6031216724" target="6031216723" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">19.592</data>
+    </edge>
+    <edge source="6031216724" target="6031216719" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">11.914</data>
+    </edge>
+    <edge source="6031216724" target="9278281982" id="0">
+      <data key="d7">1005626187</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">7.585</data>
+    </edge>
+    <edge source="6031216725" target="6031216719" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">18.854</data>
+    </edge>
+    <edge source="6031216725" target="6031216726" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">29.213</data>
+    </edge>
+    <edge source="6031216726" target="6031216725" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">29.213</data>
+    </edge>
+    <edge source="6031216726" target="9278281981" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">9.312</data>
+    </edge>
+    <edge source="6031216727" target="9278281981" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">2.602</data>
+    </edge>
+    <edge source="6031216727" target="6031216728" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">27.186</data>
+    </edge>
+    <edge source="6031216727" target="6031216717" id="0">
+      <data key="d7">640201383</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.86</data>
+    </edge>
+    <edge source="6031216728" target="6031216727" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">27.186</data>
+    </edge>
+    <edge source="6031216728" target="6031228265" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">2.386</data>
+    </edge>
+    <edge source="6031216728" target="6031216708" id="0">
+      <data key="d7">640201381</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.195</data>
+    </edge>
+    <edge source="6031227979" target="6031228264" id="0">
+      <data key="d7">640201147</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">1.697</data>
+    </edge>
+    <edge source="6031227979" target="6031228268" id="0">
+      <data key="d7">640201147</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">0.828</data>
+    </edge>
+    <edge source="6031228195" target="6031228268" id="0">
+      <data key="d7">640201147</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">0.556</data>
+    </edge>
+    <edge source="6031228195" target="963709178" id="0">
+      <data key="d7">640201147</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.18</data>
+    </edge>
+    <edge source="6031228263" target="6031228463" id="0">
+      <data key="d7">80745298</data>
+      <data key="d12">service</data>
+      <data key="d16">no</data>
+      <data key="d8">False</data>
+      <data key="d14">9.982</data>
+    </edge>
+    <edge source="6031228263" target="6031228264" id="0">
+      <data key="d7">640201147</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">1.706</data>
+    </edge>
+    <edge source="6031228264" target="6031228263" id="0">
+      <data key="d7">640201147</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">1.706</data>
+    </edge>
+    <edge source="6031228264" target="6031227979" id="0">
+      <data key="d7">640201147</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">1.697</data>
+    </edge>
+    <edge source="6031228265" target="6031216728" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">2.386</data>
+    </edge>
+    <edge source="6031228265" target="6031216716" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">145.827</data>
+    </edge>
+    <edge source="6031228265" target="963709178" id="0">
+      <data key="d7">640201147</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">5.504</data>
+    </edge>
+    <edge source="6031228268" target="6031227979" id="0">
+      <data key="d7">640201147</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">0.828</data>
+    </edge>
+    <edge source="6031228268" target="6031228195" id="0">
+      <data key="d7">640201147</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">0.556</data>
+    </edge>
+    <edge source="6031228463" target="6031228464" id="0">
+      <data key="d7">80745298</data>
+      <data key="d12">service</data>
+      <data key="d16">no</data>
+      <data key="d8">False</data>
+      <data key="d14">13.877</data>
+    </edge>
+    <edge source="6031228463" target="6031228263" id="0">
+      <data key="d7">80745298</data>
+      <data key="d12">service</data>
+      <data key="d16">no</data>
+      <data key="d8">False</data>
+      <data key="d14">9.982</data>
+    </edge>
+    <edge source="6031228464" target="1903124398" id="0">
+      <data key="d7">80745298</data>
+      <data key="d12">service</data>
+      <data key="d16">no</data>
+      <data key="d8">False</data>
+      <data key="d14">13.466</data>
+    </edge>
+    <edge source="6031228464" target="6031228463" id="0">
+      <data key="d7">80745298</data>
+      <data key="d12">service</data>
+      <data key="d16">no</data>
+      <data key="d8">False</data>
+      <data key="d14">13.877</data>
+    </edge>
+    <edge source="6031228465" target="3525163825" id="0">
+      <data key="d7">80745298</data>
+      <data key="d12">service</data>
+      <data key="d16">no</data>
+      <data key="d8">False</data>
+      <data key="d14">10.94</data>
+    </edge>
+    <edge source="6031228466" target="3525163825" id="0">
+      <data key="d7">80745298</data>
+      <data key="d12">service</data>
+      <data key="d16">no</data>
+      <data key="d8">False</data>
+      <data key="d14">10.916</data>
+    </edge>
+    <edge source="6031228466" target="3525163827" id="0">
+      <data key="d7">80745298</data>
+      <data key="d12">service</data>
+      <data key="d16">no</data>
+      <data key="d8">False</data>
+      <data key="d14">10.73</data>
+    </edge>
+    <edge source="6031228467" target="3525163827" id="0">
+      <data key="d7">80745298</data>
+      <data key="d12">service</data>
+      <data key="d16">no</data>
+      <data key="d8">False</data>
+      <data key="d14">11.025</data>
+    </edge>
+    <edge source="6031228467" target="3525163829" id="0">
+      <data key="d7">80745298</data>
+      <data key="d12">service</data>
+      <data key="d16">no</data>
+      <data key="d8">False</data>
+      <data key="d14">7.159</data>
+    </edge>
+    <edge source="6358394385" target="1903856350" id="0">
+      <data key="d7">45773359</data>
+      <data key="d11">Chemin Frank-Thomas</data>
+      <data key="d12">tertiary</data>
+      <data key="d13">50</data>
+      <data key="d8">False</data>
+      <data key="d14">22.052</data>
+    </edge>
+    <edge source="6358394385" target="903997815" id="0">
+      <data key="d7">45773359</data>
+      <data key="d11">Chemin Frank-Thomas</data>
+      <data key="d12">tertiary</data>
+      <data key="d13">50</data>
+      <data key="d8">False</data>
+      <data key="d14">20.252</data>
+    </edge>
+    <edge source="6358394387" target="9278281977" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">18.62</data>
+    </edge>
+    <edge source="7090912295" target="7577177870" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.005</data>
+    </edge>
+    <edge source="7129064173" target="903997692" id="0">
+      <data key="d7">197862900</data>
+      <data key="d11">Chemin Frank-Thomas</data>
+      <data key="d12">tertiary</data>
+      <data key="d13">40</data>
+      <data key="d8">False</data>
+      <data key="d14">16.564</data>
+    </edge>
+    <edge source="7129197309" target="582902714" id="0">
+      <data key="d7">346024088</data>
+      <data key="d11">Chemin Frank-Thomas</data>
+      <data key="d12">tertiary</data>
+      <data key="d13">50</data>
+      <data key="d8">False</data>
+      <data key="d14">19.724</data>
+    </edge>
+    <edge source="7566642192" target="582908321" id="0">
+      <data key="d7">179881138</data>
+      <data key="d11">Chemin des Tulipiers</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">2.749</data>
+    </edge>
+    <edge source="7566642192" target="6031216711" id="0">
+      <data key="d7">179881138</data>
+      <data key="d11">Chemin des Tulipiers</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">2.645</data>
+    </edge>
+    <edge source="7577177870" target="7090912295" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.005</data>
+    </edge>
+    <edge source="7577177870" target="9278282005" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">137.917</data>
+    </edge>
+    <edge source="7577177870" target="903997815" id="0">
+      <data key="d7">810413894</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">9.034</data>
+    </edge>
+    <edge source="9278281920" target="9278281921" id="0">
+      <data key="d7">762942204</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">17.651</data>
+    </edge>
+    <edge source="9278281921" target="9278281920" id="0">
+      <data key="d7">762942204</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">17.651</data>
+    </edge>
+    <edge source="9278281921" target="9278281922" id="0">
+      <data key="d7">762942204</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">21.501</data>
+    </edge>
+    <edge source="9278281922" target="9278281921" id="0">
+      <data key="d7">762942204</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">21.501</data>
+    </edge>
+    <edge source="9278281922" target="9278281923" id="0">
+      <data key="d7">762942204</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">22.182</data>
+    </edge>
+    <edge source="9278281923" target="9278281922" id="0">
+      <data key="d7">762942204</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">22.182</data>
+    </edge>
+    <edge source="9278281923" target="9278281924" id="0">
+      <data key="d7">762942204</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">13.062</data>
+    </edge>
+    <edge source="9278281924" target="1904163110" id="0">
+      <data key="d7">179969942</data>
+      <data key="d11">Chemin Frank-Thomas</data>
+      <data key="d12">residential</data>
+      <data key="d13">10</data>
+      <data key="d8">False</data>
+      <data key="d14">15.512</data>
+    </edge>
+    <edge source="9278281924" target="9278281923" id="0">
+      <data key="d7">762942204</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">13.062</data>
+    </edge>
+    <edge source="9278281924" target="9278281925" id="0">
+      <data key="d7">762942204</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">36.762</data>
+    </edge>
+    <edge source="9278281925" target="9278281924" id="0">
+      <data key="d7">762942204</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">36.762</data>
+    </edge>
+    <edge source="9278281925" target="9278281926" id="0">
+      <data key="d7">762942204</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">16.808</data>
+    </edge>
+    <edge source="9278281926" target="2080615108" id="0">
+      <data key="d7">197862955</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">16.168</data>
+    </edge>
+    <edge source="9278281926" target="9278281925" id="0">
+      <data key="d7">762942204</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">16.808</data>
+    </edge>
+    <edge source="9278281926" target="9278281963" id="0">
+      <data key="d7">762942204</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">75.523</data>
+    </edge>
+    <edge source="9278281932" target="9278281963" id="0">
+      <data key="d7">762942204</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">18.681</data>
+    </edge>
+    <edge source="9278281932" target="9278281964" id="0">
+      <data key="d7">762942204</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">45.674</data>
+    </edge>
+    <edge source="9278281932" target="582902715" id="0">
+      <data key="d7">1005626177</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">6.055</data>
+    </edge>
+    <edge source="9278281933" target="2158161751" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">6.117</data>
+    </edge>
+    <edge source="9278281933" target="9278281956" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">10.283</data>
+    </edge>
+    <edge source="9278281934" target="582902714" id="0">
+      <data key="d7">45773369</data>
+      <data key="d11">Avenue Rosemont</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">8.506</data>
+    </edge>
+    <edge source="9278281934" target="1904162958" id="0">
+      <data key="d7">45773369</data>
+      <data key="d11">Avenue Rosemont</data>
+      <data key="d12">residential</data>
+      <data key="d8">False</data>
+      <data key="d14">41.664</data>
+    </edge>
+    <edge source="9278281934" target="9278281965" id="0">
+      <data key="d7">1005626178</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">8.324</data>
+    </edge>
+    <edge source="9278281934" target="9278281971" id="0">
+      <data key="d7">1005626178</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">8.692</data>
+    </edge>
+    <edge source="9278281936" target="9278281961" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">8.954</data>
+    </edge>
+    <edge source="9278281936" target="9278281953" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">55.0</data>
+    </edge>
+    <edge source="9278281945" target="2158161863" id="0">
+      <data key="d7">1005626182</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">5.889</data>
+    </edge>
+    <edge source="9278281945" target="9278281954" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">6.143</data>
+    </edge>
+    <edge source="9278281945" target="9278281957" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">24.219</data>
+    </edge>
+    <edge source="9278281952" target="1904162847" id="0">
+      <data key="d7">179969923</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d8">False</data>
+      <data key="d14">28.216</data>
+    </edge>
+    <edge source="9278281952" target="1904162881" id="0">
+      <data key="d7">179969923</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.855</data>
+    </edge>
+    <edge source="9278281952" target="9278281953" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">17.76</data>
+    </edge>
+    <edge source="9278281952" target="9278281968" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">64.915</data>
+    </edge>
+    <edge source="9278281953" target="1904162832" id="0">
+      <data key="d7">179969930</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d8">False</data>
+      <data key="d14">29.093</data>
+    </edge>
+    <edge source="9278281953" target="1904162858" id="0">
+      <data key="d7">179969930</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.772</data>
+    </edge>
+    <edge source="9278281953" target="9278281936" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">55.0</data>
+    </edge>
+    <edge source="9278281953" target="9278281952" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">17.76</data>
+    </edge>
+    <edge source="9278281954" target="9278281955" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">37.65</data>
+    </edge>
+    <edge source="9278281954" target="9278281945" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">6.143</data>
+    </edge>
+    <edge source="9278281955" target="9278281956" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">6.4</data>
+    </edge>
+    <edge source="9278281955" target="9278281954" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">37.65</data>
+    </edge>
+    <edge source="9278281956" target="582908452" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.228</data>
+    </edge>
+    <edge source="9278281956" target="582908448" id="0">
+      <data key="d7">179940226</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">56.982</data>
+    </edge>
+    <edge source="9278281956" target="9278281933" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">10.283</data>
+    </edge>
+    <edge source="9278281956" target="9278281955" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">6.4</data>
+    </edge>
+    <edge source="9278281957" target="9278281945" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">24.219</data>
+    </edge>
+    <edge source="9278281957" target="9278281958" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.458</data>
+    </edge>
+    <edge source="9278281958" target="9278281957" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.458</data>
+    </edge>
+    <edge source="9278281958" target="9278281959" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">2.403</data>
+    </edge>
+    <edge source="9278281959" target="9278281958" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">2.403</data>
+    </edge>
+    <edge source="9278281959" target="9278281960" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.652</data>
+    </edge>
+    <edge source="9278281960" target="9278281959" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.652</data>
+    </edge>
+    <edge source="9278281960" target="2158161988" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">51.173</data>
+    </edge>
+    <edge source="9278281961" target="2154406993" id="0">
+      <data key="d7">205473910</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">11.57</data>
+    </edge>
+    <edge source="9278281961" target="2158161988" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">6.129</data>
+    </edge>
+    <edge source="9278281961" target="9278281936" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">8.954</data>
+    </edge>
+    <edge source="9278281962" target="9278281965" id="0">
+      <data key="d7">762942204</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.091</data>
+    </edge>
+    <edge source="9278281962" target="9278281966" id="0">
+      <data key="d7">762942204</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">2.555</data>
+    </edge>
+    <edge source="9278281963" target="1904163038" id="0">
+      <data key="d7">179969939</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">23.095</data>
+    </edge>
+    <edge source="9278281963" target="9278281926" id="0">
+      <data key="d7">762942204</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">75.523</data>
+    </edge>
+    <edge source="9278281963" target="9278281932" id="0">
+      <data key="d7">762942204</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">18.681</data>
+    </edge>
+    <edge source="9278281964" target="9278281932" id="0">
+      <data key="d7">762942204</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">45.674</data>
+    </edge>
+    <edge source="9278281964" target="9278281965" id="0">
+      <data key="d7">762942204</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">2.634</data>
+    </edge>
+    <edge source="9278281965" target="9278281964" id="0">
+      <data key="d7">762942204</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">2.634</data>
+    </edge>
+    <edge source="9278281965" target="9278281962" id="0">
+      <data key="d7">762942204</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.091</data>
+    </edge>
+    <edge source="9278281965" target="9278281934" id="0">
+      <data key="d7">1005626178</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">8.324</data>
+    </edge>
+    <edge source="9278281966" target="9278281962" id="0">
+      <data key="d7">762942204</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">2.555</data>
+    </edge>
+    <edge source="9278281966" target="9278281967" id="0">
+      <data key="d7">762942204</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">53.975</data>
+    </edge>
+    <edge source="9278281967" target="1904162975" id="0">
+      <data key="d7">179969926</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d8">False</data>
+      <data key="d14">29.368</data>
+    </edge>
+    <edge source="9278281967" target="1904162932" id="0">
+      <data key="d7">179969926</data>
+      <data key="d12">service</data>
+      <data key="d15">driveway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.904</data>
+    </edge>
+    <edge source="9278281967" target="9278281966" id="0">
+      <data key="d7">762942204</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">53.975</data>
+    </edge>
+    <edge source="9278281968" target="1904162908" id="0">
+      <data key="d7">179969927</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">37.888</data>
+    </edge>
+    <edge source="9278281968" target="1904162958" id="0">
+      <data key="d7">179969927</data>
+      <data key="d12">service</data>
+      <data key="d8">False</data>
+      <data key="d14">5.203</data>
+    </edge>
+    <edge source="9278281968" target="9278281952" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">64.915</data>
+    </edge>
+    <edge source="9278281968" target="9278281969" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">37.453</data>
+    </edge>
+    <edge source="9278281969" target="9278281968" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">37.453</data>
+    </edge>
+    <edge source="9278281969" target="9278281970" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.54</data>
+    </edge>
+    <edge source="9278281970" target="9278281969" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.54</data>
+    </edge>
+    <edge source="9278281970" target="9278281971" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.495</data>
+    </edge>
+    <edge source="9278281971" target="9278281934" id="0">
+      <data key="d7">1005626178</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">8.692</data>
+    </edge>
+    <edge source="9278281971" target="9278281970" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.495</data>
+    </edge>
+    <edge source="9278281971" target="9278281972" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.719</data>
+    </edge>
+    <edge source="9278281972" target="9278281971" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.719</data>
+    </edge>
+    <edge source="9278281972" target="9278281973" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">23.689</data>
+    </edge>
+    <edge source="9278281973" target="9278281972" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">23.689</data>
+    </edge>
+    <edge source="9278281973" target="9278281974" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">18.616</data>
+    </edge>
+    <edge source="9278281974" target="9278281973" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">18.616</data>
+    </edge>
+    <edge source="9278281974" target="9278281975" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">8.37</data>
+    </edge>
+    <edge source="9278281975" target="9278281974" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">8.37</data>
+    </edge>
+    <edge source="9278281975" target="9278281976" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.982</data>
+    </edge>
+    <edge source="9278281976" target="9278281975" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.982</data>
+    </edge>
+    <edge source="9278281976" target="9278281977" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">10.54</data>
+    </edge>
+    <edge source="9278281977" target="9278281976" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">10.54</data>
+    </edge>
+    <edge source="9278281977" target="6358394387" id="0">
+      <data key="d7">1005626184</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">18.62</data>
+    </edge>
+    <edge source="9278281978" target="582908223" id="0">
+      <data key="d7">8367436</data>
+      <data key="d11">Avenue Godefroy</data>
+      <data key="d12">residential</data>
+      <data key="d13">40</data>
+      <data key="d8">False</data>
+      <data key="d14">17.134</data>
+    </edge>
+    <edge source="9278281978" target="2154406821" id="0">
+      <data key="d7">8367436</data>
+      <data key="d11">Avenue Godefroy</data>
+      <data key="d12">residential</data>
+      <data key="d13">40</data>
+      <data key="d8">False</data>
+      <data key="d14">30.464</data>
+    </edge>
+    <edge source="9278281978" target="9278281980" id="0">
+      <data key="d7">1005626185</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.824</data>
+    </edge>
+    <edge source="9278281980" target="9278281992" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">69.546</data>
+    </edge>
+    <edge source="9278281980" target="9278282003" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.643</data>
+    </edge>
+    <edge source="9278281980" target="9278281978" id="0">
+      <data key="d7">1005626185</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.824</data>
+    </edge>
+    <edge source="9278281981" target="6031216726" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">9.312</data>
+    </edge>
+    <edge source="9278281981" target="6031216727" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">2.602</data>
+    </edge>
+    <edge source="9278281981" target="2077445495" id="0">
+      <data key="d7">1005626186</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.533</data>
+    </edge>
+    <edge source="9278281982" target="9278282000" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">31.54</data>
+    </edge>
+    <edge source="9278281982" target="9278281999" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">1.307</data>
+    </edge>
+    <edge source="9278281982" target="6031216724" id="0">
+      <data key="d7">1005626187</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">7.585</data>
+    </edge>
+    <edge source="9278281983" target="992071268" id="0">
+      <data key="d7">85537715</data>
+      <data key="d12">service</data>
+      <data key="d15">parking_aisle</data>
+      <data key="d8">False</data>
+      <data key="d14">18.823</data>
+    </edge>
+    <edge source="9278281983" target="582908233" id="0">
+      <data key="d7">85537715</data>
+      <data key="d12">service</data>
+      <data key="d15">parking_aisle</data>
+      <data key="d8">False</data>
+      <data key="d14">5.252</data>
+    </edge>
+    <edge source="9278281983" target="9278281996" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.173</data>
+    </edge>
+    <edge source="9278281983" target="9278281995" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">8.305</data>
+    </edge>
+    <edge source="9278281985" target="582908226" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">4.278</data>
+    </edge>
+    <edge source="9278281985" target="992071192" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">5.406</data>
+    </edge>
+    <edge source="9278281986" target="582908225" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">3.806</data>
+    </edge>
+    <edge source="9278281986" target="9278281987" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">2.583</data>
+    </edge>
+    <edge source="9278281987" target="9278281986" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">2.583</data>
+    </edge>
+    <edge source="9278281987" target="992071611" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">4.088</data>
+    </edge>
+    <edge source="9278281988" target="582908230" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">3.758</data>
+    </edge>
+    <edge source="9278281988" target="582908228" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">3.107</data>
+    </edge>
+    <edge source="9278281989" target="582908233" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">3.42</data>
+    </edge>
+    <edge source="9278281989" target="582908232" id="0">
+      <data key="d7">85537701</data>
+      <data key="d8">False</data>
+      <data key="d11">Avenue des Allières</data>
+      <data key="d12">residential</data>
+      <data key="d14">3.821</data>
+    </edge>
+    <edge source="9278281991" target="2154406850" id="0">
+      <data key="d7">8367436</data>
+      <data key="d11">Avenue Godefroy</data>
+      <data key="d12">residential</data>
+      <data key="d13">40</data>
+      <data key="d8">False</data>
+      <data key="d14">8.236</data>
+    </edge>
+    <edge source="9278281991" target="25648610" id="0">
+      <data key="d7">8367436</data>
+      <data key="d11">Avenue Godefroy</data>
+      <data key="d12">residential</data>
+      <data key="d13">40</data>
+      <data key="d8">False</data>
+      <data key="d14">4.712</data>
+    </edge>
+    <edge source="9278281992" target="9278282004" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">9.229</data>
+    </edge>
+    <edge source="9278281992" target="9278281980" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">69.546</data>
+    </edge>
+    <edge source="9278281993" target="9278281994" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.702</data>
+    </edge>
+    <edge source="9278281993" target="6031216720" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.902</data>
+    </edge>
+    <edge source="9278281994" target="9278281995" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">5.433</data>
+    </edge>
+    <edge source="9278281994" target="9278281993" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.702</data>
+    </edge>
+    <edge source="9278281995" target="9278281983" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">8.305</data>
+    </edge>
+    <edge source="9278281995" target="9278281994" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">5.433</data>
+    </edge>
+    <edge source="9278281996" target="9278281997" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">8.911</data>
+    </edge>
+    <edge source="9278281996" target="9278281983" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">4.173</data>
+    </edge>
+    <edge source="9278281997" target="9278281998" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.479</data>
+    </edge>
+    <edge source="9278281997" target="9278281996" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">8.911</data>
+    </edge>
+    <edge source="9278281998" target="9278281999" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.263</data>
+    </edge>
+    <edge source="9278281998" target="9278281997" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.479</data>
+    </edge>
+    <edge source="9278281999" target="9278281982" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">1.307</data>
+    </edge>
+    <edge source="9278281999" target="9278281998" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.263</data>
+    </edge>
+    <edge source="9278282000" target="9278282001" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">28.053</data>
+    </edge>
+    <edge source="9278282000" target="9278281982" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">31.54</data>
+    </edge>
+    <edge source="9278282001" target="9278282002" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">2.809</data>
+    </edge>
+    <edge source="9278282001" target="9278282000" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">28.053</data>
+    </edge>
+    <edge source="9278282002" target="9278282003" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">2.95</data>
+    </edge>
+    <edge source="9278282002" target="9278282001" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">2.809</data>
+    </edge>
+    <edge source="9278282002" target="2077445495" id="0">
+      <data key="d7">1005626186</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">7.66</data>
+    </edge>
+    <edge source="9278282003" target="9278281980" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">3.643</data>
+    </edge>
+    <edge source="9278282003" target="9278282002" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">2.95</data>
+    </edge>
+    <edge source="9278282004" target="9278282007" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">52.625</data>
+    </edge>
+    <edge source="9278282004" target="9278281992" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">9.229</data>
+    </edge>
+    <edge source="9278282005" target="7577177870" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">137.917</data>
+    </edge>
+    <edge source="9278282005" target="9278282006" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">32.945</data>
+    </edge>
+    <edge source="9278282006" target="9278282005" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">32.945</data>
+    </edge>
+    <edge source="9278282006" target="9278282007" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">12.048</data>
+    </edge>
+    <edge source="9278282007" target="9278282006" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">12.048</data>
+    </edge>
+    <edge source="9278282007" target="9278282004" id="0">
+      <data key="d7">197718057</data>
+      <data key="d12">footway</data>
+      <data key="d8">False</data>
+      <data key="d14">52.625</data>
+    </edge>
+    <data key="d0">2022-05-11 21:54:02</data>
+    <data key="d1">OSMnx 1.1.2</data>
+    <data key="d2">epsg:4326</data>
+  </graph>
+</graphml>
