@@ -1,33 +1,39 @@
 # Exploring "Urban intensity/vitality" with Open Data, and 15-minute action space
-This repository contains the following files :
-* assignement4.py: the python file containing the code to model the traffic congestion
-* export_trajets.csv: the CSV containing the data 
-* week.jpg and weekend.jpg: which represents the two graphs that you should get after compiling the code
+This repository contains the following main folders and files :
+
+* **Figures**: regroup all outputs of the plots used in the code.
+
+* **Function**: regroup python files which automatize all the processes of preprocessing to deal with all the data in "2.Analysis.ipynb" (**start_time.py**: automatize the preprocessing (link to the time); **pupil_sizes.py**: automatize the calculation of the diameter of the pupil and **test_stats.py**: automatize the calculation of the Blink rate + test statistics)
+
+* **1.Methodology_detailed.ipynb**: a methodology for one subject for Room 2243, where all the code is presented in detail.
+
+* **2.Analysis.ipynb**: use the folder Function to present a complete analysis of all useable data csv from both room
 
 ## Data
+In summer 2021, a laboratory study was conducted at the BP building at EPFL, in Lausanne, Switzerland. This study was supervised by Caroline Karmann, scientist at the Laboratory of Integrated Performance in Design (LIPID). The goal of this study is to investigate the effect of overall environmental conditions, glare and view
+out on participants’ subjective responses, behavior and task performance. The different tests and the exact process of the experiment are described with more details in the report. The outputs of this study are regrouped in the following files and folders:
 
-The initial data can be found at this Url: https://donnees.montreal.ca/ville-de-montreal/mtl-trajet 
-* export_trajets.csv: In this file, you will find all the initial data points extracted from the shapefile provided on the website. The CSV consists of 5 different columns: id of the trip, travel mode, purpose, start_time, and end_time
-The raw dataset contains about 185’000 rows, where each one represents one trip of a user.
+* **webcam_2021-07-20-16-49.csv**: This is the "csv" file containing the data for one subject for room 2243. ( This file is used to demonstrate our methodology)
 
-## Description
-As the initial data are a Geolocated dataset in a shapefile. It was first needed to convert the data.
-So, we used the geographic information system ”QGIS”, which allows us to load a shapefile and export it as a CSV file ("export_trajets.csv").
-The second step was to model the traffic congestion of the city of Montreal for the period of September 2017 to October 2017. The code for this part is provided in " assignement4.py". Its output shows that we have three specific rush hours during the week and none during the weekend. It also supports the analysis with two graphs.
+* **2243**: regroup all the useable data of the same format as the one previously explained for room 2243.
 
-Warning: Due to the big amount of data, the code takes 5-7 minutes to run to make both graphs.
+* **2229**: regroup all the useable data of the same format as the one previously explained for room 2229. 
+
+* **2243_txt_file_in_CSV.csv**: represent the data for room 2243 taken by hand from the supervisor of the study
+
+* **2229_txt_file_in_CSV.csv**: represent the data for room 2229 taken by hand from the supervisor of the study
+
+* **Data**: regroup others datasets added or created during the study ( **BP_Results_by_hand_v3_2021-11-12.xlsx** : excel file taken by hand from the supervisor of the study;**data_exposure_survey_small.csv**: represent the data of the survey taken by the subjects; **data_exposure_survey_with_objective_glare.csv**: represent the data from the survey with features on the glare; **survey_clean.csv**: csv created after the preprocessing to be easier to access and **weather_only.csv**: represent data on the weather during the study ).
 
 ## Getting Started
 
-First, you will need to have " git " install on your computer to be able to clone the repository on your computer. You will also need to have python installed. If this is not the case you can download it from here: https://www.python.org/downloads/  
+First, you will need to have " git " install on your computer to be able to clone the repository on your computer. You will also need to have python and jupyter notebook installed. If this is not the case you can download it from here: Python: https://www.python.org/downloads/  and for jupyter notebook the easiest is to download Anaconda: https://docs.anaconda.com/anaconda/install/index.html and open it from there.
 
 ## Dependencies and Installing
 
-The code is using two Python libraries: "Pandas" to analyze data and "Matplotlib" to visualize the output of the analysis 
+The code is using some Python libraries: "Numpy" and "Pandas" to analyze data, "Matplotlib" and "Seaborn" to visualize the output of the analysis, and "Scipy" for the statistical analysis.
 
-If you are completely new to these two libraries. The easiest way to get them is to download "anaconda" to be able to use "conda" command in your terminal. Here is the link: https://docs.anaconda.com/anaconda/install/index.html . Those two can also be downloaded in some other way. More information is provided on their website: 
-
-https://pypi.org/project/pandas/ and  https://matplotlib.org/stable/users/installing.html
+If you are completely new to those libraries. The easiest way is to use "conda" command in your terminal, once you have downloaded Anaconda. Those can also be downloaded in some other way. More information is provided on their websites
 
 If you are using anaconda, you can simply copy those code lines on your terminal.
 
@@ -41,21 +47,31 @@ conda install -c anaconda pandas
 ```
 conda install matplotlib
 ```
+* numpy : 
+```
+conda install -c anaconda numpy
+```
+* Scipy
+```
+conda install -c anaconda scipy
+```
+
 
 ### Executing program
 
 To execute the program you need to follow the steps described below:
-* Clone the repository 
-* Get the Python libraries
+* Clone the repository on your computer
+* Get the Python libraries needed
 * Enter in the repository with this command (Windows) or equivalent code line for Mac and Linux
 ```
-cd researchskill_assignement4
+cd enac_project
 ```
-* Run the file assignement4.py as follow:
+* Run jupyter lab as follow in the command line:
 ```
-python assignement4.py
+jupyter lab 
 ```
-* After 5-6 min, two files should have been saved as 'week.jpg' and 'weekend.jpg'
+
+* Another way to open the repository that you have cloned is to open Anaconda Navigator and open it from there.
 
 
 ## Authors
