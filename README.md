@@ -1,12 +1,17 @@
 # Exploring "Urban intensity/vitality" with Open Data, and 15-minute action space
 
 This repository contains the following main folders and files :
+* **Data** : regroups all the Data used in this project 
 
-* **Figures**: regroup all outputs of the plots used in the code. (**png** : access to all plots / **map_html**: acces to all the interactive map)
+* **Figures**: regroups all outputs of the plots used in the code. (**png** : access to all plots / **map_html**: acces to all the interactive map)
 
 * **1.Analysis_OpenData.ipynb**: analysis of Urbain Vitality and 15-minute action space on a jupyter notebook
 
 * **2.Analysis_demand_Domotopie.ipynb**: analysis of the Domotopie dataset in order to observe how Geneva citizen are moving (demand) and see if it is consistent and what was found in the previous analysis
+
+* **Graphs**: folder containing all the graphs (bike,walk and all type) for each subsectors saved from network.ipynb. It is used to increase compute the security factor.
+
+* **network.ipynb**: download all graph from osmnx library and save it into graphs 
 
 ## Data
 For the first part of the project, two type of Open Data are used:
