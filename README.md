@@ -2,7 +2,7 @@
 
 This repository contains the following main folders and files :
 
-* **Figures**: regroup all outputs of the plots used in the code.
+* **Figures**: regroup all outputs of the plots used in the code. (**png** : access to all plots / **map_html**: acces to all the interactive map)
 
 * **1.Analysis_OpenData.ipynb**: analysis of Urbain Vitality and 15-minute action space on a jupyter notebook
 
